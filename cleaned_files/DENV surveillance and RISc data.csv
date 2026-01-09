@@ -1,0 +1,1939 @@
+adjusted_year,country,ISO_A0,region,cases,population_total,RISc,risc_intensity
+1990,Aruba,ABW,Caribbean,0,62753,0.525374685,high
+1997,Aruba,ABW,Caribbean,0,86301,-1.477983525,low
+2020,Aruba,ABW,Caribbean,11,108587,-1.306625883,low
+2023,Aruba,ABW,Caribbean,22,107359,0.521694699,high
+2016,Aruba,ABW,Caribbean,1319,108727,1.998576676,high
+1991,Aruba,ABW,Caribbean,0,65896,-0.050784988,expected
+2003,Aruba,ABW,Caribbean,0,93128,-2.231103146,low
+2004,Aruba,ABW,Caribbean,173,95138,2.601190855,high
+1998,Aruba,ABW,Caribbean,0,88451,-1.190648419,low
+2013,Aruba,ABW,Caribbean,528,105675,1.022599624,high
+1995,Aruba,ABW,Caribbean,37,79805,3.584099684,high
+2011,Aruba,ABW,Caribbean,3025,102591,3.194237548,high
+2007,Aruba,ABW,Caribbean,0,100150,-3.18753375,low
+2006,Aruba,ABW,Caribbean,5,99405,-1.439004214,low
+2002,Aruba,ABW,Caribbean,25,92074,1.066409093,high
+2021,Aruba,ABW,Caribbean,4,107700,-1.837344611,low
+1992,Aruba,ABW,Caribbean,0,69005,-0.388495374,expected
+2015,Aruba,ABW,Caribbean,335,107906,0.491844553,expected
+1999,Aruba,ABW,Caribbean,130,89659,3.31154719,high
+1993,Aruba,ABW,Caribbean,0,73685,-1.622508121,low
+2022,Aruba,ABW,Caribbean,11,107310,-0.571203931,low
+2010,Aruba,ABW,Caribbean,1700,101838,2.919392014,high
+2017,Aruba,ABW,Caribbean,1734,108735,2.524858333,high
+2001,Aruba,ABW,Caribbean,0,91439,-1.765706772,low
+1994,Aruba,ABW,Caribbean,0,77595,-2.276720151,low
+2012,Aruba,ABW,Caribbean,0,104110,-4.375379145,low
+1996,Aruba,ABW,Caribbean,10,83021,1.769970518,high
+2000,Aruba,ABW,Caribbean,76,90588,2.539023072,high
+2009,Aruba,ABW,Caribbean,845,101604,2.569607721,high
+2014,Aruba,ABW,Caribbean,400,106807,0.655407593,high
+2005,Aruba,ABW,Caribbean,0,97635,-2.832109605,low
+2008,Aruba,ABW,Caribbean,0,100917,-3.315558721,low
+2019,Aruba,ABW,Caribbean,106,109203,0.458529163,expected
+2018,Aruba,ABW,Caribbean,9,108908,-2.31549081,low
+2011,Argentina,ARG,South America,2803,41730660,0.256005143,expected
+1991,Argentina,ARG,South America,0,33230294,-0.518664085,low
+2015,Argentina,ARG,South America,77874,43477012,2.459166673,high
+2012,Argentina,ARG,South America,9294,42161721,1.135227866,high
+2023,Argentina,ARG,South America,610041,45538401,2.603259591,high
+1996,Argentina,ARG,South America,0,35513793,-1.560350666,low
+1993,Argentina,ARG,South America,0,34152717,-0.163884967,expected
+2019,Argentina,ARG,South America,59492,44973465,1.432921364,high
+2022,Argentina,ARG,South America,118089,45407904,1.302060187,high
+1990,Argentina,ARG,South America,0,32755901,0.156167851,expected
+2004,Argentina,ARG,South America,34,38815916,-1.88214539,low
+1999,Argentina,ARG,South America,1700,36794682,4.011179339,high
+2014,Argentina,ARG,South America,2605,43024071,-0.703112522,low
+2009,Argentina,ARG,South America,1185,40854831,0.050588027,expected
+2013,Argentina,ARG,South America,3270,42582455,-0.207148419,expected
+2001,Argentina,ARG,South America,214,37624825,0.958512525,high
+1992,Argentina,ARG,South America,0,33693527,-0.134721779,expected
+2005,Argentina,ARG,South America,181,39216789,-0.532498091,low
+2000,Argentina,ARG,South America,11,37213984,-1.487323596,low
+1998,Argentina,ARG,South America,3,36372860,-1.446486318,low
+2008,Argentina,ARG,South America,26606,40424148,3.488946191,high
+2002,Argentina,ARG,South America,135,38029349,0.111074079,expected
+2010,Argentina,ARG,South America,213,41288694,-1.987052523,low
+2003,Argentina,ARG,South America,3284,38424282,2.965077643,high
+1995,Argentina,ARG,South America,0,35070020,-0.96101083,low
+2021,Argentina,ARG,South America,841,45312281,-3.319971716,low
+2007,Argentina,ARG,South America,40,40016763,-2.649649097,low
+2006,Argentina,ARG,South America,173,39622115,-0.886192017,low
+2016,Argentina,ARG,South America,4299,43900313,-0.632180928,low
+2017,Argentina,ARG,South America,1788,44288894,-1.685476396,low
+2020,Argentina,ARG,South America,3972,45191965,-1.498947882,low
+1997,Argentina,ARG,South America,822,35947791,4.616902663,high
+1994,Argentina,ARG,South America,0,34613491,-1.175650708,low
+2018,Argentina,ARG,South America,3203,44654882,-1.28560175,low
+2014,Antigua And Barbuda,ATG,Caribbean,37,88765,1.174268293,high
+2019,Antigua And Barbuda,ATG,Caribbean,1223,91364,3.074866993,high
+2013,Antigua And Barbuda,ATG,Caribbean,3,88064,-0.811000388,low
+2012,Antigua And Barbuda,ATG,Caribbean,10,87260,0.454392425,expected
+1997,Antigua And Barbuda,ATG,Caribbean,7,71053,0.933273807,high
+1998,Antigua And Barbuda,ATG,Caribbean,4,72412,0.463699298,expected
+2020,Antigua And Barbuda,ATG,Caribbean,407,91846,1.658344833,high
+2017,Antigua And Barbuda,ATG,Caribbean,1,90468,-2.660684237,low
+2003,Antigua And Barbuda,ATG,Caribbean,0,77884,-1.172494411,low
+1999,Antigua And Barbuda,ATG,Caribbean,2,73666,-0.169714643,expected
+2000,Antigua And Barbuda,ATG,Caribbean,8,74912,1.124835521,high
+2005,Antigua And Barbuda,ATG,Caribbean,0,79611,-1.596916641,low
+1995,Antigua And Barbuda,ATG,Caribbean,56,68189,3.372055352,high
+1991,Antigua And Barbuda,ATG,Caribbean,1,63387,0.253599338,expected
+1990,Antigua And Barbuda,ATG,Caribbean,1,63066,0.595560791,high
+2018,Antigua And Barbuda,ATG,Caribbean,8,90926,-1.579518885,low
+1993,Antigua And Barbuda,ATG,Caribbean,0,65587,-2.069638361,low
+2016,Antigua And Barbuda,ATG,Caribbean,103,89969,1.56422124,high
+2006,Antigua And Barbuda,ATG,Caribbean,0,80604,-1.650079359,low
+1994,Antigua And Barbuda,ATG,Caribbean,0,66843,-2.417753316,low
+2008,Antigua And Barbuda,ATG,Caribbean,17,82912,1.970484364,high
+1992,Antigua And Barbuda,ATG,Caribbean,0,64404,-0.877961214,low
+1996,Antigua And Barbuda,ATG,Caribbean,12,69612,1.630979719,high
+2023,Antigua And Barbuda,ATG,Caribbean,272,93316,0.290695013,expected
+2007,Antigua And Barbuda,ATG,Caribbean,0,81704,-1.538723836,low
+2004,Antigua And Barbuda,ATG,Caribbean,0,78719,-1.282588937,low
+2015,Antigua And Barbuda,ATG,Caribbean,14,89409,-0.114517565,expected
+2001,Antigua And Barbuda,ATG,Caribbean,20,76069,2.146702087,high
+2022,Antigua And Barbuda,ATG,Caribbean,48,92840,-1.11237002,low
+2009,Antigua And Barbuda,ATG,Caribbean,2,84173,-0.35477939,expected
+2021,Antigua And Barbuda,ATG,Caribbean,46,92349,-0.833114784,low
+2011,Antigua And Barbuda,ATG,Caribbean,7,86332,0.487962425,expected
+2002,Antigua And Barbuda,ATG,Caribbean,5,77032,0.886268123,high
+2010,Antigua And Barbuda,ATG,Caribbean,3,85320,0.037826853,expected
+2003,Australia,AUS,Oceania,1821,19720737,0.45422631,expected
+2023,Australia,AUS,Oceania,5985,26652777,1.584371063,high
+1996,Australia,AUS,Oceania,930,18224767,0.662969971,high
+2016,Australia,AUS,Oceania,4335,24190907,0.522900304,high
+1993,Australia,AUS,Oceania,51,17634808,-1.755268328,low
+1998,Australia,AUS,Oceania,1386,18607584,0.747990202,high
+2010,Australia,AUS,Oceania,3840,22031750,0.202941245,expected
+1994,Australia,AUS,Oceania,51,17805468,-1.880182832,low
+2018,Australia,AUS,Oceania,3990,24963258,0.766372379,high
+2020,Australia,AUS,Oceania,12,25649248,-4.641807052,low
+1999,Australia,AUS,Oceania,651,18812264,-0.138381071,expected
+2013,Australia,AUS,Oceania,5163,23128129,0.376203187,expected
+1991,Australia,AUS,Oceania,1098,17284036,1.519894388,high
+2002,Australia,AUS,Oceania,2073,19495210,0.683960245,high
+2000,Australia,AUS,Oceania,306,19028802,-1.007545569,low
+1995,Australia,AUS,Oceania,120,18004882,-1.20487087,low
+1997,Australia,AUS,Oceania,900,18423037,0.466680149,expected
+2007,Australia,AUS,Oceania,2091,20827622,0.065748273,expected
+1992,Australia,AUS,Oceania,2070,17478635,2.048239872,high
+2009,Australia,AUS,Oceania,1905,21691653,-0.362866914,expected
+2004,Australia,AUS,Oceania,411,19932722,-1.13745469,low
+2019,Australia,AUS,Oceania,2508,25334826,0.452348621,expected
+2011,Australia,AUS,Oceania,4326,22340024,0.231915309,expected
+2021,Australia,AUS,Oceania,300,25685412,-1.448798715,low
+2022,Australia,AUS,Oceania,2817,26014399,0.826641732,high
+2017,Australia,AUS,Oceania,2787,24592588,0.244281125,expected
+2015,Australia,AUS,Oceania,4374,23815995,0.387577681,expected
+2008,Australia,AUS,Oceania,3618,21249199,0.442708323,expected
+2006,Australia,AUS,Oceania,747,20450966,-0.800946564,low
+2001,Australia,AUS,Oceania,693,19274701,-0.306159522,expected
+1990,Australia,AUS,Oceania,138,17065128,-0.443047551,expected
+2014,Australia,AUS,Oceania,5148,23475686,0.438674196,expected
+2012,Australia,AUS,Oceania,6810,22733465,0.642803114,high
+2005,Australia,AUS,Oceania,591,20176844,-0.894535757,low
+1991,Bangladesh,BGD,Asia,0,113787109,0.176704361,expected
+2009,Bangladesh,BGD,Asia,474,150873714,-1.0765238,low
+2017,Bangladesh,BGD,Asia,2769,162186147,-0.85087278,low
+2008,Bangladesh,BGD,Asia,1153,149474264,-0.151324053,expected
+2012,Bangladesh,BGD,Asia,671,155070101,-1.022154835,low
+1998,Bangladesh,BGD,Asia,0,129622332,-2.570758494,low
+2003,Bangladesh,BGD,Asia,486,140970351,-0.3881213,expected
+2018,Bangladesh,BGD,Asia,10148,163523103,0.097010848,expected
+2005,Bangladesh,BGD,Asia,1048,144715786,-0.058810366,expected
+2019,Bangladesh,BGD,Asia,104954,164913055,2.048822841,high
+1993,Bangladesh,BGD,Asia,0,118132360,-0.233293148,expected
+2006,Bangladesh,BGD,Asia,2200,146405973,0.583771064,high
+2023,Bangladesh,BGD,Asia,321138,171466990,1.312320532,high
+2011,Bangladesh,BGD,Asia,1359,153591076,-0.181506193,expected
+2004,Bangladesh,BGD,Asia,3934,142902856,1.433351034,high
+2014,Bangladesh,BGD,Asia,375,157964929,-1.995819087,low
+1992,Bangladesh,BGD,Asia,0,115952192,-0.449020011,expected
+2016,Bangladesh,BGD,Asia,6060,160811932,0.245731396,expected
+1990,Bangladesh,BGD,Asia,0,111633717,0.008043666,expected
+2001,Bangladesh,BGD,Asia,2430,136805810,2.174971903,high
+2007,Bangladesh,BGD,Asia,466,147989278,-1.020422841,low
+2000,Bangladesh,BGD,Asia,5551,134544304,3.730310285,high
+1995,Bangladesh,BGD,Asia,0,122600370,-0.478030139,expected
+2022,Bangladesh,BGD,Asia,62408,169384897,0.177800541,expected
+2010,Bangladesh,BGD,Asia,409,152201981,-1.284260606,low
+1996,Bangladesh,BGD,Asia,0,124862179,-1.299417636,low
+2020,Bangladesh,BGD,Asia,1405,166298024,-2.674850478,low
+1994,Bangladesh,BGD,Asia,0,120343179,-0.26420299,expected
+2002,Bangladesh,BGD,Asia,6132,138933658,2.543120751,high
+1999,Bangladesh,BGD,Asia,273,132108065,1.609294983,high
+2021,Bangladesh,BGD,Asia,26151,167658854,-0.204063157,expected
+1997,Bangladesh,BGD,Asia,0,127198069,-1.890976409,low
+2015,Bangladesh,BGD,Asia,3162,159383179,-0.120465569,expected
+2013,Bangladesh,BGD,Asia,1749,156532141,-0.241916572,expected
+2021,Bahamas,BHS,Caribbean,NA,396373,-0.725623317,low
+2018,Bahamas,BHS,Caribbean,10,392717,-0.799900164,low
+2022,Bahamas,BHS,Caribbean,NA,397538,-0.764317789,low
+2011,Bahamas,BHS,Caribbean,6997,371729,6.459228181,high
+2017,Bahamas,BHS,Caribbean,14,390485,-0.444937611,expected
+2010,Bahamas,BHS,Caribbean,10,367478,0.211711081,expected
+1993,Bahamas,BHS,Caribbean,0,291339,-1.586706777,low
+1990,Bahamas,BHS,Caribbean,2,275945,2.064188916,high
+2012,Bahamas,BHS,Caribbean,3,375469,-1.37034287,low
+1994,Bahamas,BHS,Caribbean,0,296509,-2.221161056,low
+1998,Bahamas,BHS,Caribbean,336,315368,6.014102589,high
+2003,Bahamas,BHS,Caribbean,180,335618,4.582634722,high
+2001,Bahamas,BHS,Caribbean,0,327836,-0.687160908,low
+2002,Bahamas,BHS,Caribbean,0,331614,-0.789500433,low
+2006,Bahamas,BHS,Caribbean,1,348375,-1.080520697,low
+2013,Bahamas,BHS,Caribbean,3,378953,-1.396497252,low
+2000,Bahamas,BHS,Caribbean,0,323835,-0.722652505,low
+1999,Bahamas,BHS,Caribbean,0,319614,-0.699592139,low
+1991,Bahamas,BHS,Caribbean,0,280731,-0.151007156,expected
+2014,Bahamas,BHS,Caribbean,146,382298,2.071364689,high
+2023,Bahamas,BHS,Caribbean,243,399440,1.940918557,high
+2016,Bahamas,BHS,Caribbean,82,388055,1.353395473,high
+2020,Bahamas,BHS,Caribbean,3,395863,-1.770197314,low
+2015,Bahamas,BHS,Caribbean,10,385346,-0.668859765,low
+2007,Bahamas,BHS,Caribbean,0,353334,-1.87799747,low
+1992,Bahamas,BHS,Caribbean,0,285927,-0.408205413,expected
+2009,Bahamas,BHS,Caribbean,1,362810,-1.471138967,low
+2008,Bahamas,BHS,Caribbean,1,358120,-1.184145657,low
+1996,Bahamas,BHS,Caribbean,0,306268,-0.148645068,expected
+1997,Bahamas,BHS,Caribbean,0,310904,-0.766064076,low
+2019,Bahamas,BHS,Caribbean,27,394675,0.16939611,expected
+2004,Bahamas,BHS,Caribbean,1,339782,-0.634769461,low
+2005,Bahamas,BHS,Caribbean,0,343894,-1.778942727,low
+1995,Bahamas,BHS,Caribbean,1,301461,1.255707607,high
+1992,Belize,BLZ,Central America,0,190983,-1.220939954,low
+2006,Belize,BLZ,Central America,9,287878,-1.546243226,low
+2007,Belize,BLZ,Central America,40,296100,-0.632896739,low
+1994,Belize,BLZ,Central America,0,199097,-0.531007247,low
+1991,Belize,BLZ,Central America,0,187040,-0.882064062,low
+2004,Belize,BLZ,Central America,2,271688,-1.907069486,low
+2008,Belize,BLZ,Central America,23,304361,-1.712515861,low
+2018,Belize,BLZ,Central America,2347,380226,-0.513152867,low
+2020,Belize,BLZ,Central America,2658,390812,-0.403995186,expected
+2017,Belize,BLZ,Central America,3054,373202,-0.189954433,expected
+2023,Belize,BLZ,Central America,1705,411106,-0.82402369,low
+1995,Belize,BLZ,Central America,107,204146,4.073396665,high
+2016,Belize,BLZ,Central America,4899,364705,0.392879306,expected
+2022,Belize,BLZ,Central America,5080,402733,0.263019744,expected
+2002,Belize,BLZ,Central America,41,256009,1.388477954,high
+2013,Belize,BLZ,Central America,2690,341627,0.553057091,high
+2011,Belize,BLZ,Central America,466,327298,-0.336813404,expected
+1996,Belize,BLZ,Central America,0,210310,-1.333275514,low
+1993,Belize,BLZ,Central America,0,194902,-0.7092312,low
+2012,Belize,BLZ,Central America,1421,334414,0.317351326,expected
+2005,Belize,BLZ,Central America,380,279731,2.581766195,high
+1997,Belize,BLZ,Central America,141,217446,3.767170085,high
+2003,Belize,BLZ,Central America,0,263780,-2.529140022,low
+1990,Belize,BLZ,Central America,2,183076,1.195954192,high
+2014,Belize,BLZ,Central America,4990,348923,0.839670154,high
+2000,Belize,BLZ,Central America,4,240799,-0.415507102,expected
+2009,Belize,BLZ,Central America,1370,312614,1.788297867,high
+1999,Belize,BLZ,Central America,3,233059,-0.459443293,expected
+2015,Belize,BLZ,Central America,5691,356333,0.71878057,high
+2021,Belize,BLZ,Central America,3104,395346,-0.234092183,expected
+2019,Belize,BLZ,Central America,13410,385829,1.207349589,high
+2010,Belize,BLZ,Central America,1885,320245,1.565836606,high
+1998,Belize,BLZ,Central America,7,225173,0.514520292,high
+2001,Belize,BLZ,Central America,3,248379,-0.885240178,low
+1990,Bolivia,BOL,South America,97397,7130142,2.472412897,high
+2002,Bolivia,BOL,South America,6501,8900355,1.970831845,high
+2018,Bolivia,BOL,South America,15792,11508368,-0.8674494,low
+2013,Bolivia,BOL,South America,42736,10682608,0.265868941,expected
+2020,Bolivia,BOL,South America,5871,11816299,-1.814762501,low
+2010,Bolivia,BOL,South America,26633,10182345,0.359561444,expected
+2006,Bolivia,BOL,South America,7223,9521689,0.416860145,expected
+2016,Bolivia,BOL,South America,23958,11180020,-0.479710883,expected
+2009,Bolivia,BOL,South America,9918,10016275,-0.349388438,expected
+2014,Bolivia,BOL,South America,47512,10848888,0.273986417,expected
+2008,Bolivia,BOL,South America,83849,9850858,2.10589198,high
+2023,Bolivia,BOL,South America,53769,12244159,0.350104783,expected
+1993,Bolivia,BOL,South America,54453,7579195,3.747535329,high
+1999,Bolivia,BOL,South America,73,8459806,-1.575431472,low
+1998,Bolivia,BOL,South America,43,8313394,-1.986639901,low
+2007,Bolivia,BOL,South America,3178,9685960,-0.801049807,low
+2003,Bolivia,BOL,South America,7365,9050700,1.690297137,high
+1994,Bolivia,BOL,South America,7,7727322,-4.45841295,low
+2012,Bolivia,BOL,South America,13050,10515807,-0.774796616,low
+2021,Bolivia,BOL,South America,11782,11937360,-1.116670909,low
+2022,Bolivia,BOL,South America,157573,12077154,1.45400276,high
+2015,Bolivia,BOL,South America,68432,11014705,0.586092242,high
+2004,Bolivia,BOL,South America,4433,9204287,0.765775736,high
+1995,Bolivia,BOL,South America,52,7874676,-2.264769093,low
+1992,Bolivia,BOL,South America,6915,7430336,1.101452854,high
+2000,Bolivia,BOL,South America,176,8606326,-0.935665828,low
+2011,Bolivia,BOL,South America,51694,10348929,0.789395095,high
+2017,Bolivia,BOL,South America,12094,11344587,-1.153799466,low
+1996,Bolivia,BOL,South America,539,8021736,0.333967542,expected
+1991,Bolivia,BOL,South America,3501,7280289,-0.205504883,expected
+2001,Bolivia,BOL,South America,891,8752736,0.363197156,expected
+1997,Bolivia,BOL,South America,49,8167900,-1.887313064,low
+2019,Bolivia,BOL,South America,123178,11671386,1.207507216,high
+2005,Bolivia,BOL,South America,2039,9360754,-0.431563972,expected
+2021,Brazil,BRA,South America,2169450,209550294,-0.054070064,expected
+2005,Brazil,BRA,South America,345922,184688101,-0.1303418,expected
+2022,Brazil,BRA,South America,2929392,210306415,0.080900181,expected
+2010,Brazil,BRA,South America,753487,193701929,0.066007297,expected
+2000,Brazil,BRA,South America,412388,174018282,0.406971299,expected
+2009,Brazil,BRA,South America,994158,192079951,0.460073409,expected
+2001,Brazil,BRA,South America,778037,176301203,0.964321794,high
+2011,Brazil,BRA,South America,597450,195284734,-0.281695767,expected
+2014,Brazil,BRA,South America,1443769,200085127,0.271475917,expected
+2017,Brazil,BRA,South America,441093,204703445,-1.182493874,low
+2018,Brazil,BRA,South America,2090899,206107261,0.277084645,expected
+1990,Brazil,BRA,South America,97209,149143223,1.567459101,high
+2002,Brazil,BRA,South America,341189,178503484,0.079686491,expected
+2015,Brazil,BRA,South America,2315122,201675532,0.650385119,high
+1993,Brazil,BRA,South America,54453,156794577,0.001531056,expected
+1995,Brazil,BRA,South America,175749,161735073,0.49652139,expected
+2006,Brazil,BRA,South America,558413,186653106,0.237793205,expected
+1996,Brazil,BRA,South America,254074,164202549,0.581538583,high
+2019,Brazil,BRA,South America,1786569,207455459,0.01322013,expected
+2007,Brazil,BRA,South America,724427,188552320,0.379701557,expected
+1992,Brazil,BRA,South America,6915,154275079,-1.715876359,low
+2008,Brazil,BRA,South America,520660,190367302,-0.069185146,expected
+1999,Brazil,BRA,South America,231412,171641543,-0.06680442,expected
+1991,Brazil,BRA,South America,3501,151724256,-2.068669233,low
+2013,Brazil,BRA,South America,591080,198478299,-0.518462732,low
+1997,Brazil,BRA,South America,535283,166661659,1.09094378,high
+2004,Brazil,BRA,South America,203356,182675143,-0.567228639,low
+1998,Brazil,BRA,South America,204131,169159655,-0.055691744,expected
+2020,Brazil,BRA,South America,742266,208660842,-0.984097365,low
+2003,Brazil,BRA,South America,112851,180622688,-1.083565376,low
+2012,Brazil,BRA,South America,1473645,196876111,0.506019392,high
+2023,Brazil,BRA,South America,10047185,211140729,1.138290812,high
+1994,Brazil,BRA,South America,124775,159265006,0.482334872,expected
+2016,Brazil,BRA,South America,542474,203218114,-0.887923372,low
+2015,Barbados,BRB,Caribbean,503,278990,-0.056976361,expected
+2021,Barbados,BRB,Caribbean,448,282147,-0.214307478,expected
+2001,Barbados,BRB,Caribbean,1029,262425,1.477138514,high
+2010,Barbados,BRB,Caribbean,2966,275243,2.582654216,high
+2011,Barbados,BRB,Caribbean,739,276139,0.956157962,high
+1999,Barbados,BRB,Caribbean,688,262517,1.179057679,high
+2009,Barbados,BRB,Caribbean,55,274123,-1.176630977,low
+2003,Barbados,BRB,Caribbean,557,265776,1.019253775,high
+2005,Barbados,BRB,Caribbean,320,268706,0.721252691,high
+1992,Barbados,BRB,Caribbean,4,260267,-1.696156298,low
+2008,Barbados,BRB,Caribbean,1,272714,-3.947609439,low
+2016,Barbados,BRB,Caribbean,1732,279598,1.145536988,high
+2012,Barbados,BRB,Caribbean,912,276938,0.939377953,high
+1996,Barbados,BRB,Caribbean,130,262284,0.251122621,expected
+2023,Barbados,BRB,Caribbean,798,282336,0.283356832,expected
+1991,Barbados,BRB,Caribbean,21,259373,0.042216726,expected
+2020,Barbados,BRB,Caribbean,1352,281698,0.912170081,high
+2022,Barbados,BRB,Caribbean,339,282318,-0.53078806,low
+2019,Barbados,BRB,Caribbean,125,281207,-1.456014324,low
+2006,Barbados,BRB,Caribbean,1,270002,-4.018038534,low
+2000,Barbados,BRB,Caribbean,744,262063,1.16720535,high
+2013,Barbados,BRB,Caribbean,2848,277665,1.889811671,high
+1994,Barbados,BRB,Caribbean,0,261620,-3.970285746,low
+1990,Barbados,BRB,Caribbean,236,258582,2.695505173,high
+2017,Barbados,BRB,Caribbean,597,280171,0.079465436,expected
+2018,Barbados,BRB,Caribbean,69,280711,-2.056053205,low
+2014,Barbados,BRB,Caribbean,2689,278348,1.698023771,high
+1995,Barbados,BRB,Caribbean,974,262039,2.609222085,high
+1998,Barbados,BRB,Caribbean,852,262436,1.565877573,high
+2007,Barbados,BRB,Caribbean,0,271288,-4.325687572,low
+1997,Barbados,BRB,Caribbean,196,262392,0.346523585,expected
+2004,Barbados,BRB,Caribbean,349,267298,0.682971366,high
+2002,Barbados,BRB,Caribbean,740,264148,1.198444157,high
+1993,Barbados,BRB,Caribbean,1,261027,-2.993313273,low
+1992,China,CHN,Asia,2,1164970000,-3.862136195,low
+2003,China,CHN,Asia,93,1288400000,-1.358112051,low
+2021,China,CHN,Asia,0,1412360000,-6.282523233,low
+2012,China,CHN,Asia,498,1354190000,-0.988801609,low
+2009,China,CHN,Asia,312,1331260000,-0.674875557,low
+2002,China,CHN,Asia,1606,1280400000,1.437524376,high
+2019,China,CHN,Asia,22317,1407745000,2.413963847,high
+1991,China,CHN,Asia,902,1150780000,1.676255042,high
+2014,China,CHN,Asia,47512,1371860000,3.096343268,high
+2016,China,CHN,Asia,2050,1387790000,-0.21562172,expected
+2022,China,CHN,Asia,487,1412175000,-1.024185299,low
+2023,China,CHN,Asia,19627,1410710000,2.737499843,high
+2005,China,CHN,Asia,40,1303720000,-2.174353115,low
+2004,China,CHN,Asia,247,1296075000,-0.363845778,expected
+2015,China,CHN,Asia,3858,1379860000,0.461177912,expected
+2013,China,CHN,Asia,5277,1363240000,1.106309592,high
+2001,China,CHN,Asia,375,1271850000,-0.055038093,expected
+2007,China,CHN,Asia,539,1317885000,0.21565402,expected
+1997,China,CHN,Asia,637,1230075000,0.630982369,high
+1995,China,CHN,Asia,6812,1204855000,3.262181426,high
+2008,China,CHN,Asia,203,1324655000,-0.910515255,low
+2017,China,CHN,Asia,5893,1396215000,0.866717658,high
+1999,China,CHN,Asia,1868,1252735000,1.549625213,high
+2000,China,CHN,Asia,405,1262645000,0.004436573,expected
+2006,China,CHN,Asia,1315,1311020000,1.218497277,high
+2011,China,CHN,Asia,58,1345035000,-2.835202396,low
+2020,China,CHN,Asia,558,1411100000,-1.118163272,low
+1996,China,CHN,Asia,8,1217550000,-3.430370398,low
+1993,China,CHN,Asia,359,1178440000,0.591985768,high
+2010,China,CHN,Asia,223,1337705000,-1.242310454,low
+2018,China,CHN,Asia,5136,1402760000,0.814979116,high
+1998,China,CHN,Asia,490,1241935000,0.270244116,expected
+1994,China,CHN,Asia,17,1191835000,-2.50997636,low
+1990,China,CHN,Asia,376,1135185000,0.853849121,high
+1994,Colombia,COL,South America,774,35127410,-3.127650113,low
+2000,Colombia,COL,South America,20956,39089934,-0.342132445,expected
+2004,Colombia,COL,South America,27014,41543171,-0.304037425,expected
+2007,Colombia,COL,South America,41022,43235374,-0.119248187,expected
+2008,Colombia,COL,South America,35784,43758808,-0.347880569,expected
+1995,Colombia,COL,South America,50031,35804662,0.935814898,high
+2011,Colombia,COL,South America,31819,45259614,-0.747901121,low
+1997,Colombia,COL,South America,20340,37121149,-0.159202709,expected
+2009,Colombia,COL,South America,51946,44271541,-0.070408439,expected
+2021,Colombia,COL,South America,53334,51188173,-0.383435452,expected
+2005,Colombia,COL,South America,40668,42128977,0.038188457,expected
+2023,Colombia,COL,South America,135531,52321152,0.556460793,high
+1990,Colombia,COL,South America,17350,32440069,0.187926284,expected
+1991,Colombia,COL,South America,15104,33098372,0.015008503,expected
+2016,Colombia,COL,South America,101016,47437512,0.165922776,expected
+2003,Colombia,COL,South America,55475,40937429,0.469479197,expected
+1999,Colombia,COL,South America,19243,38454863,-0.364728855,expected
+2012,Colombia,COL,South America,55179,45715810,-0.283135371,expected
+1992,Colombia,COL,South America,59853,33760571,1.352120722,high
+2001,Colombia,COL,South America,48874,39709262,0.445877708,expected
+1998,Colombia,COL,South America,58011,37792165,0.806251389,high
+2013,Colombia,COL,South America,126425,46151584,0.471561318,expected
+2020,Colombia,COL,South America,78979,50629997,-0.011481728,expected
+2015,Colombia,COL,South America,96444,46969940,0.124498785,expected
+2022,Colombia,COL,South America,69497,51737944,-0.112117894,expected
+2019,Colombia,COL,South America,127553,49907985,0.442135047,expected
+2014,Colombia,COL,South America,107975,46565429,0.262860101,expected
+1996,Colombia,COL,South America,31398,36462745,0.369602321,expected
+2006,Colombia,COL,South America,36829,42691084,-0.139580326,expected
+2002,Colombia,COL,South America,71727,40324680,0.775445891,high
+2017,Colombia,COL,South America,25775,48131078,-1.189765873,low
+2018,Colombia,COL,South America,46037,49024465,-0.595425846,low
+1993,Colombia,COL,South America,8449,34441473,-0.659762829,low
+2010,Colombia,COL,South America,155255,44777319,0.927876486,high
+2018,Costa Rica,CRI,Central America,4530,4957818,-0.962824182,low
+1996,Costa Rica,CRI,Central America,2309,3619013,0.390572952,expected
+2011,Costa Rica,CRI,Central America,13838,4609833,-0.354943237,expected
+2009,Costa Rica,CRI,Central America,7214,4499791,-0.978897458,low
+1990,Costa Rica,CRI,Central America,0,3121706,-1.703387648,low
+2020,Costa Rica,CRI,Central America,10056,5034320,0.007599566,expected
+2023,Costa Rica,CRI,Central America,31565,5105525,1.227319834,high
+2008,Costa Rica,CRI,Central America,8212,4440056,-0.833418614,low
+2012,Costa Rica,CRI,Central America,22243,4663934,0.122542656,expected
+1992,Costa Rica,CRI,Central America,0,3284258,-3.410134774,low
+2016,Costa Rica,CRI,Central America,30700,4866998,0.716091884,high
+2010,Costa Rica,CRI,Central America,31484,4555962,0.477181357,expected
+2000,Costa Rica,CRI,Central America,4908,3937739,-0.663652495,low
+1998,Costa Rica,CRI,Central America,2628,3782838,-0.59871454,low
+1994,Costa Rica,CRI,Central America,13929,3451122,3.802321458,high
+2014,Costa Rica,CRI,Central America,16742,4767119,-0.080924987,expected
+2006,Costa Rica,CRI,Central America,12052,4321340,-0.407569077,expected
+2007,Costa Rica,CRI,Central America,26504,4380248,0.356200238,expected
+2022,Costa Rica,CRI,Central America,7485,5081765,-0.218430844,expected
+2021,Costa Rica,CRI,Central America,5174,5059988,-0.607689158,low
+2017,Costa Rica,CRI,Central America,8340,4913177,-0.466634847,expected
+1993,Costa Rica,CRI,Central America,4612,3367434,3.676318218,high
+2001,Costa Rica,CRI,Central America,9464,4008947,-0.231215491,expected
+2003,Costa Rica,CRI,Central America,19703,4138784,0.237608305,expected
+1991,Costa Rica,CRI,Central America,0,3202176,-2.540997908,low
+2019,Costa Rica,CRI,Central America,9472,4999553,-0.128910933,expected
+2002,Costa Rica,CRI,Central America,12251,4075705,-0.131837181,expected
+1997,Costa Rica,CRI,Central America,14421,3701711,1.602017343,high
+2015,Costa Rica,CRI,Central America,25852,4818038,0.437202858,expected
+2005,Costa Rica,CRI,Central America,37798,4261240,0.769909832,high
+2013,Costa Rica,CRI,Central America,81942,4716147,1.451280666,high
+1995,Costa Rica,CRI,Central America,5137,3535176,1.933578856,high
+2004,Costa Rica,CRI,Central America,9408,4200078,-0.571030641,low
+1999,Costa Rica,CRI,Central America,6041,3862101,-0.156210682,expected
+1999,Cayman Islands,CYM,Caribbean,1,38284,1.094908955,high
+2012,Cayman Islands,CYM,Caribbean,53,57136,1.222246863,high
+1997,Cayman Islands,CYM,Caribbean,0,35543,-0.291520706,expected
+2014,Cayman Islands,CYM,Caribbean,124,60160,1.498837118,high
+2000,Cayman Islands,CYM,Caribbean,0,39674,-0.096649534,expected
+2016,Cayman Islands,CYM,Caribbean,150,63100,1.440720968,high
+2009,Cayman Islands,CYM,Caribbean,0,52618,-1.915580285,low
+2011,Cayman Islands,CYM,Caribbean,2,55606,-1.20051572,low
+1990,Cayman Islands,CYM,Caribbean,0,25999,0.758553828,high
+1991,Cayman Islands,CYM,Caribbean,0,27294,0.167622949,expected
+2005,Cayman Islands,CYM,Caribbean,1,46788,-0.438168851,expected
+1992,Cayman Islands,CYM,Caribbean,0,28621,-0.126090857,expected
+1993,Cayman Islands,CYM,Caribbean,0,29976,-1.492326622,low
+1996,Cayman Islands,CYM,Caribbean,0,34143,0.550386274,high
+2023,Cayman Islands,CYM,Caribbean,42,73038,1.011950393,high
+2021,Cayman Islands,CYM,Caribbean,1,70108,-2.40056992,low
+1995,Cayman Islands,CYM,Caribbean,1,32743,2.836879546,high
+2015,Cayman Islands,CYM,Caribbean,40,61642,0.19567212,expected
+1998,Cayman Islands,CYM,Caribbean,2,36922,2.26497154,high
+2020,Cayman Islands,CYM,Caribbean,35,68684,0.355763011,expected
+2013,Cayman Islands,CYM,Caribbean,69,58655,1.167601844,high
+2008,Cayman Islands,CYM,Caribbean,1,51151,-0.889303893,low
+2017,Cayman Islands,CYM,Caribbean,31,64535,-0.137418595,expected
+1994,Cayman Islands,CYM,Caribbean,0,31352,-2.157480021,low
+2010,Cayman Islands,CYM,Caribbean,8,54099,0.181857031,expected
+2004,Cayman Islands,CYM,Caribbean,0,45352,-0.988266845,low
+2007,Cayman Islands,CYM,Caribbean,9,49687,1.25752249,high
+2002,Cayman Islands,CYM,Caribbean,1,42514,0.711546663,high
+2022,Cayman Islands,CYM,Caribbean,2,71591,-1.914788219,low
+2003,Cayman Islands,CYM,Caribbean,1,43934,0.277439342,expected
+2006,Cayman Islands,CYM,Caribbean,0,48232,-1.625028075,low
+2018,Cayman Islands,CYM,Caribbean,29,65941,-0.137114394,expected
+2001,Cayman Islands,CYM,Caribbean,0,41089,-0.031803706,expected
+2019,Cayman Islands,CYM,Caribbean,133,67327,1.520259716,high
+2010,Dominica,DMA,Caribbean,633,68859,2.799554371,high
+1993,Dominica,DMA,Caribbean,1,69433,-1.047271179,low
+2013,Dominica,DMA,Caribbean,197,69715,1.08765788,high
+2001,Dominica,DMA,Caribbean,5,68288,0.465589595,expected
+2019,Dominica,DMA,Caribbean,1066,67880,2.415824869,high
+2003,Dominica,DMA,Caribbean,0,68531,-1.772004682,low
+2009,Dominica,DMA,Caribbean,2,68864,-2.355343162,low
+1998,Dominica,DMA,Caribbean,1,69124,-0.317799014,expected
+2000,Dominica,DMA,Caribbean,15,68511,1.665646239,high
+2012,Dominica,DMA,Caribbean,3,69118,-2.616750057,low
+1992,Dominica,DMA,Caribbean,0,69325,-1.317704481,low
+2005,Dominica,DMA,Caribbean,7,68734,-0.356591079,expected
+2021,Dominica,DMA,Caribbean,65,67202,-0.3518292,expected
+2015,Dominica,DMA,Caribbean,38,70410,-0.796096917,low
+1995,Dominica,DMA,Caribbean,282,69469,4.881728679,high
+2018,Dominica,DMA,Caribbean,45,68174,-0.746481865,low
+1990,Dominica,DMA,Caribbean,6,69627,0.811225195,high
+1996,Dominica,DMA,Caribbean,3,69410,0.404397806,expected
+2020,Dominica,DMA,Caribbean,88,67573,-0.058037435,expected
+1999,Dominica,DMA,Caribbean,1,68870,-0.541256515,low
+2017,Dominica,DMA,Caribbean,33,68496,-1.028814629,low
+1994,Dominica,DMA,Caribbean,0,69477,-2.497911639,low
+2006,Dominica,DMA,Caribbean,19,68806,0.313780657,expected
+2004,Dominica,DMA,Caribbean,4,68649,-0.52185639,low
+2011,Dominica,DMA,Caribbean,40,69053,-0.140839242,expected
+2007,Dominica,DMA,Caribbean,110,68847,1.779048645,high
+2008,Dominica,DMA,Caribbean,80,68854,1.184792206,high
+2014,Dominica,DMA,Caribbean,189,70373,0.902869791,high
+1997,Dominica,DMA,Caribbean,0,69299,-1.30178573,low
+2002,Dominica,DMA,Caribbean,0,68367,-1.519734825,low
+2016,Dominica,DMA,Caribbean,351,69606,1.356070524,high
+2023,Dominica,DMA,Caribbean,419,66510,1.497366001,high
+1991,Dominica,DMA,Caribbean,12,69296,1.527687933,high
+2022,Dominica,DMA,Caribbean,3,66826,-3.087512041,low
+1998,Dominican Republic,DOM,Caribbean,2873,8310362,1.744367636,high
+1993,Dominican Republic,DOM,Caribbean,0,7594572,-3.487202042,low
+2022,Dominican Republic,DOM,Caribbean,10784,11230734,0.076938492,expected
+2004,Dominican Republic,DOM,Caribbean,2340,9104892,-0.64255202,low
+2000,Dominican Republic,DOM,Caribbean,3404,8584190,0.97338093,high
+1999,Dominican Republic,DOM,Caribbean,1059,8446208,0.252005266,expected
+2014,Dominican Republic,DOM,Caribbean,6274,10315528,-0.135348687,expected
+2010,Dominican Republic,DOM,Caribbean,11060,9820175,0.37095452,expected
+2005,Dominican Republic,DOM,Caribbean,2776,9225034,-0.665844984,low
+2001,Dominican Republic,DOM,Caribbean,3588,8720283,0.635061808,high
+2020,Dominican Republic,DOM,Caribbean,3964,11008300,-0.668171646,low
+2023,Dominican Republic,DOM,Caribbean,28737,11331265,0.904794701,high
+2009,Dominican Republic,DOM,Caribbean,7297,9695265,-0.040202755,expected
+2019,Dominican Republic,DOM,Caribbean,20323,10894043,1.042512166,high
+2018,Dominican Republic,DOM,Caribbean,1602,10782053,-1.447335889,low
+2013,Dominican Republic,DOM,Caribbean,16503,10193833,0.803826192,high
+1990,Dominican Republic,DOM,Caribbean,39,7151166,1.425677575,high
+2016,Dominican Republic,DOM,Caribbean,6645,10551430,-0.018275159,expected
+2007,Dominican Republic,DOM,Caribbean,9403,9455658,0.300335439,expected
+1996,Dominican Republic,DOM,Caribbean,72,8032894,-0.826595498,low
+2021,Dominican Republic,DOM,Caribbean,3746,11123476,-0.83729003,low
+1997,Dominican Republic,DOM,Caribbean,512,8174078,0.558370595,high
+2003,Dominican Republic,DOM,Caribbean,5911,8980620,0.518034826,high
+1992,Dominican Republic,DOM,Caribbean,107,7447474,1.59617379,high
+1994,Dominican Republic,DOM,Caribbean,0,7741694,-4.039282124,low
+1991,Dominican Republic,DOM,Caribbean,24,7299853,0.527060749,high
+2011,Dominican Republic,DOM,Caribbean,2232,9945621,-1.222488127,low
+2006,Dominican Republic,DOM,Caribbean,5913,9341183,-0.060165058,expected
+2015,Dominican Republic,DOM,Caribbean,17048,10434829,0.895488067,high
+2002,Dominican Republic,DOM,Caribbean,3118,8852235,0.15970556,expected
+2008,Dominican Republic,DOM,Caribbean,4150,9573130,-0.577458213,low
+1995,Dominican Republic,DOM,Caribbean,211,7888115,0.800432559,high
+2012,Dominican Republic,DOM,Caribbean,9549,10070411,0.239230505,expected
+2017,Dominican Republic,DOM,Caribbean,1367,10666843,-1.587182262,low
+2005,Ecuador,ECU,South America,5871,13846163,-0.252513362,expected
+1995,Ecuador,ECU,South America,5189,11590514,0.290704989,expected
+2003,Ecuador,ECU,South America,6101,13372306,-0.206937653,expected
+2019,Ecuador,ECU,South America,23793,17340021,0.319592508,expected
+2017,Ecuador,ECU,South America,4014,16759519,-1.386237953,low
+2016,Ecuador,ECU,South America,13096,16505139,-0.180895341,expected
+2022,Ecuador,ECU,South America,15596,17823897,-0.288520214,expected
+2007,Ecuador,ECU,South America,1879,14328773,-1.466740827,low
+2010,Ecuador,ECU,South America,7567,15076695,-0.321373218,expected
+2014,Ecuador,ECU,South America,35762,16035124,0.894357025,high
+1994,Ecuador,ECU,South America,6607,11372197,0.824731316,high
+1997,Ecuador,ECU,South America,4606,12031127,-0.23182259,expected
+1990,Ecuador,ECU,South America,94,10473673,-1.818408165,low
+2006,Ecuador,ECU,South America,10253,14086131,0.276665313,expected
+2009,Ecuador,ECU,South America,17516,14825954,0.612578867,high
+2008,Ecuador,ECU,South America,4400,14575202,-0.683982289,low
+1998,Ecuador,ECU,South America,2901,12251184,-0.818445131,low
+2013,Ecuador,ECU,South America,15531,15807128,0.123353761,expected
+2002,Ecuador,ECU,South America,9903,13138472,0.26866099,expected
+2001,Ecuador,ECU,South America,5675,12910740,-0.288196315,expected
+1996,Ecuador,ECU,South America,3871,11810950,-0.23065947,expected
+2012,Ecuador,ECU,South America,11662,15572194,-0.080265138,expected
+2021,Ecuador,ECU,South America,18249,17682454,-0.051934784,expected
+1992,Ecuador,ECU,South America,9015,10930128,1.875147208,high
+1991,Ecuador,ECU,South America,137,10702380,-1.8825755,low
+2018,Ecuador,ECU,South America,5819,17049547,-1.046167473,low
+2015,Ecuador,ECU,South America,17147,16266225,0.117626588,expected
+1999,Ecuador,ECU,South America,22934,12470795,1.168219304,high
+2004,Ecuador,ECU,South America,11797,13608701,0.455588317,expected
+2000,Ecuador,ECU,South America,10864,12689206,0.377039168,expected
+1993,Ecuador,ECU,South America,8145,11154274,1.381305918,high
+2020,Ecuador,ECU,South America,14499,17546065,-0.221924921,expected
+2011,Ecuador,ECU,South America,19367,15326227,0.52039211,high
+2023,Ecuador,ECU,South America,59105,17980083,0.955050077,high
+2019,Fiji,FJI,Oceania,2364,914899,0.005806004,expected
+1997,Fiji,FJI,Oceania,24780,812139,7.085619711,high
+2003,Fiji,FJI,Oceania,2,866286,-1.897724019,low
+2020,Fiji,FJI,Oceania,56,914963,-3.88415368,low
+2012,Fiji,FJI,Oceania,355,914918,-0.374878649,expected
+1991,Fiji,FJI,Oceania,358,779656,2.353288227,high
+2023,Fiji,FJI,Oceania,5255,924145,-0.002260139,expected
+2004,Fiji,FJI,Oceania,0,874366,-3.13114696,low
+1992,Fiji,FJI,Oceania,39,785346,0.28471969,expected
+2006,Fiji,FJI,Oceania,100,890365,0.803402276,high
+2017,Fiji,FJI,Oceania,5629,918759,1.186530317,high
+2013,Fiji,FJI,Oceania,5244,916352,1.987179088,high
+1998,Fiji,FJI,Oceania,430,822258,3.097965446,high
+2002,Fiji,FJI,Oceania,16,858049,-0.006647442,expected
+1990,Fiji,FJI,Oceania,65,773316,0.493878165,expected
+2022,Fiji,FJI,Oceania,9912,919422,0.859966416,high
+2000,Fiji,FJI,Oceania,3,840909,-1.406588378,low
+1996,Fiji,FJI,Oceania,0,803789,-3.03995918,low
+2008,Fiji,FJI,Oceania,374,903399,1.305349581,high
+2010,Fiji,FJI,Oceania,88,910419,-0.990762775,low
+1995,Fiji,FJI,Oceania,2,798746,-2.012068818,low
+2009,Fiji,FJI,Oceania,8,907239,-2.817106034,low
+2015,Fiji,FJI,Oceania,800,918578,-0.399925753,expected
+2005,Fiji,FJI,Oceania,25,882379,-0.215843691,expected
+2014,Fiji,FJI,Oceania,1244,917585,0.271971832,expected
+2018,Fiji,FJI,Oceania,3152,917180,0.450153755,expected
+1994,Fiji,FJI,Oceania,27,794771,0.136236994,expected
+2016,Fiji,FJI,Oceania,2013,919166,0.327159338,expected
+2001,Fiji,FJI,Oceania,0,849596,-2.602300308,low
+2007,Fiji,FJI,Oceania,1895,897832,3.343162928,high
+2021,Fiji,FJI,Oceania,5924,916711,0.561877357,high
+1993,Fiji,FJI,Oceania,0,790369,-3.0549383,low
+2011,Fiji,FJI,Oceania,1777,912989,1.606037287,high
+1999,Fiji,FJI,Oceania,14,831828,-0.251199029,expected
+2004,Grenada,GRD,Caribbean,7,109323,-0.648355923,low
+2005,Grenada,GRD,Caribbean,0,109734,-2.74997665,low
+2009,Grenada,GRD,Caribbean,23,111254,-0.211569116,expected
+2013,Grenada,GRD,Caribbean,228,113487,1.108662818,high
+2020,Grenada,GRD,Caribbean,253,116341,-0.067897876,expected
+2023,Grenada,GRD,Caribbean,642,117081,0.270760116,expected
+2012,Grenada,GRD,Caribbean,94,112775,0.451075074,expected
+2011,Grenada,GRD,Caribbean,125,112079,0.989542751,high
+1999,Grenada,GRD,Caribbean,85,106727,2.038736669,high
+2021,Grenada,GRD,Caribbean,230,116688,-0.349830769,expected
+2003,Grenada,GRD,Caribbean,17,108884,0.235205668,expected
+2022,Grenada,GRD,Caribbean,293,116913,-0.30912878,expected
+2006,Grenada,GRD,Caribbean,22,110135,0.285796142,expected
+2010,Grenada,GRD,Caribbean,253,111586,1.944751201,high
+1992,Grenada,GRD,Caribbean,1,101602,-0.496969829,expected
+2007,Grenada,GRD,Caribbean,0,110522,-2.842773463,low
+1995,Grenada,GRD,Caribbean,73,103869,2.721954153,high
+1996,Grenada,GRD,Caribbean,6,104584,0.019434753,expected
+2017,Grenada,GRD,Caribbean,244,115438,0.39648579,expected
+2002,Grenada,GRD,Caribbean,81,108404,1.813848927,high
+1990,Grenada,GRD,Caribbean,3,99957,0.954518024,high
+1997,Grenada,GRD,Caribbean,22,105293,0.999031151,high
+2000,Grenada,GRD,Caribbean,27,107451,0.799112707,high
+2008,Grenada,GRD,Caribbean,6,110896,-1.236316226,low
+1994,Grenada,GRD,Caribbean,0,103138,-2.645629539,low
+1998,Grenada,GRD,Caribbean,4,106009,-0.682737522,low
+2019,Grenada,GRD,Caribbean,106,115981,-0.764316267,low
+2018,Grenada,GRD,Caribbean,463,115691,0.866921624,high
+2014,Grenada,GRD,Caribbean,79,114132,-0.156289405,expected
+2001,Grenada,GRD,Caribbean,12,107987,-0.03176383,expected
+1993,Grenada,GRD,Caribbean,1,102382,-1.157832776,low
+2015,Grenada,GRD,Caribbean,25,114676,-1.484442998,low
+2016,Grenada,GRD,Caribbean,172,115130,0.229620147,expected
+1991,Grenada,GRD,Caribbean,1,100793,-0.210499367,expected
+1997,Guatemala,GTM,Central America,5379,10857754,0.272596542,expected
+1991,Guatemala,GTM,Central America,10968,9272584,1.067087426,high
+2002,Guatemala,GTM,Central America,7552,12246915,0.338489419,expected
+2020,Guatemala,GTM,Central America,6075,17357325,-0.628275691,low
+2022,Guatemala,GTM,Central America,8553,17847877,-0.472005949,expected
+2005,Guatemala,GTM,Central America,6309,13087629,0.11434636,expected
+1995,Guatemala,GTM,Central America,3979,10312996,0.103493289,expected
+2003,Guatemala,GTM,Central America,6728,12525842,0.208652036,expected
+2011,Guatemala,GTM,Central America,2553,14792126,-1.129779396,low
+2013,Guatemala,GTM,Central America,11703,15387337,0.261386088,expected
+1994,Guatemala,GTM,Central America,2872,10043718,-0.181808245,expected
+2000,Guatemala,GTM,Central America,8964,11697592,0.581361275,high
+2009,Guatemala,GTM,Central America,10200,14215611,0.393945494,expected
+2014,Guatemala,GTM,Central America,19863,15681725,0.7425242,high
+1999,Guatemala,GTM,Central America,3615,11422965,-0.267868122,expected
+2021,Guatemala,GTM,Central America,2959,17598650,-1.423557154,low
+1996,Guatemala,GTM,Central America,3660,10583526,-0.039546862,expected
+1993,Guatemala,GTM,Central America,1907,9779761,-0.587560608,low
+1992,Guatemala,GTM,Central America,1286,9522266,-1.015229376,low
+2015,Guatemala,GTM,Central America,18685,15971743,0.650214885,high
+2012,Guatemala,GTM,Central America,9331,15089647,0.096976973,expected
+2006,Guatemala,GTM,Central America,2422,13367459,-0.874569248,low
+2023,Guatemala,GTM,Central America,73975,18124838,1.558218058,high
+2008,Guatemala,GTM,Central America,3227,13935174,-0.691977444,low
+1990,Guatemala,GTM,Central America,5757,9024773,0.353261682,expected
+2019,Guatemala,GTM,Central America,50886,17103803,1.546072367,high
+2007,Guatemala,GTM,Central America,5865,13652040,-0.036801585,expected
+2017,Guatemala,GTM,Central America,4308,16567357,-0.857046875,low
+2018,Guatemala,GTM,Central America,7592,16845685,-0.317957116,expected
+2016,Guatemala,GTM,Central America,9070,16268760,-0.0937419,expected
+2001,Guatemala,GTM,Central America,4512,11969422,-0.148630312,expected
+2010,Guatemala,GTM,Central America,16842,14500112,0.825855957,high
+1998,Guatemala,GTM,Central America,4653,11139145,0.052721123,expected
+2004,Guatemala,GTM,Central America,6313,12807402,0.133736385,expected
+2009,Guyana,GUY,South America,993,752094,0.854655531,high
+2000,Guyana,GUY,South America,19,764832,0.761325545,high
+2023,Guyana,GUY,South America,28376,826353,1.766993922,high
+2004,Guyana,GUY,South America,47,762418,-0.51743089,low
+2003,Guyana,GUY,South America,33,763101,-0.402514035,expected
+1994,Guyana,GUY,South America,0,755822,-0.853540585,low
+2018,Guyana,GUY,South America,286,791556,-1.107068104,low
+1992,Guyana,GUY,South America,0,749911,0.007882456,expected
+2005,Guyana,GUY,South America,178,760914,0.387744126,expected
+1991,Guyana,GUY,South America,0,747861,-0.485317073,expected
+1996,Guyana,GUY,South America,0,760526,-0.489247707,expected
+2001,Guyana,GUY,South America,60,764477,1.274802038,high
+2012,Guyana,GUY,South America,2189,746288,1.253519497,high
+2022,Guyana,GUY,South America,11811,821637,1.3033152,high
+1995,Guyana,GUY,South America,0,758388,-0.069027039,expected
+2021,Guyana,GUY,South America,4380,815482,0.71264601,high
+2008,Guyana,GUY,South America,324,754606,-0.025160143,expected
+2011,Guyana,GUY,South America,1093,746153,0.639374209,high
+2010,Guyana,GUY,South America,1467,749256,1.060663338,high
+2016,Guyana,GUY,South America,303,763548,-0.802319677,low
+1997,Guyana,GUY,South America,0,762245,-0.768110132,low
+2006,Guyana,GUY,South America,118,758966,-0.402283831,expected
+2020,Guyana,GUY,South America,1724,807481,0.144727282,expected
+2013,Guyana,GUY,South America,1120,750021,0.54138265,high
+2002,Guyana,GUY,South America,200,763652,1.899759317,high
+1990,Guyana,GUY,South America,0,749894,0.181389442,expected
+2019,Guyana,GUY,South America,230,807665,-1.568500229,low
+1998,Guyana,GUY,South America,42,763586,3.031765956,high
+1993,Guyana,GUY,South America,0,752965,0.191965294,expected
+2007,Guyana,GUY,South America,200,756861,-0.217003894,expected
+2015,Guyana,GUY,South America,388,758781,-0.532602164,low
+2017,Guyana,GUY,South America,4,768479,-4.813246373,low
+2014,Guyana,GUY,South America,863,754229,0.26918605,expected
+1999,Guyana,GUY,South America,0,764483,-1.395256361,low
+2020,Honduras,HND,Central America,25180,10119640,0.039804876,expected
+1997,Honduras,HND,Central America,11861,6071454,0.239712965,expected
+2000,Honduras,HND,Central America,13328,6577773,-0.071594045,expected
+2013,Honduras,HND,Central America,39201,8889278,0.56238162,high
+2002,Honduras,HND,Central America,31406,6938859,0.648072132,high
+2018,Honduras,HND,Central America,8187,9765210,-1.021740143,low
+1990,Honduras,HND,Central America,1700,4980488,-0.294849818,expected
+2016,Honduras,HND,Central America,22961,9412380,0.020310493,expected
+2007,Honduras,HND,Central America,29328,7834798,0.449995791,expected
+1991,Honduras,HND,Central America,5303,5123792,0.667063243,high
+2009,Honduras,HND,Central America,14528,8189899,-0.316085998,expected
+1998,Honduras,HND,Central America,22200,6234431,0.691237089,high
+2012,Honduras,HND,Central America,15554,8715076,-0.337851209,expected
+2011,Honduras,HND,Central America,7412,8540583,-1.05057873,low
+2023,Honduras,HND,Central America,34761,10644851,0.177512112,expected
+2006,Honduras,HND,Central America,7800,7656832,-0.84285959,low
+2019,Honduras,HND,Central America,132905,9943633,1.736735051,high
+2022,Honduras,HND,Central America,25337,10463872,-0.066873331,expected
+2014,Honduras,HND,Central America,42753,9063122,0.636670378,high
+2001,Honduras,HND,Central America,8646,6757993,-0.586461279,low
+2021,Honduras,HND,Central America,19753,10289877,-0.25044561,expected
+2005,Honduras,HND,Central America,17048,7478355,-0.034937826,expected
+1993,Honduras,HND,Central America,2847,5423249,-0.329170501,expected
+2015,Honduras,HND,Central America,44834,9237305,0.684092094,high
+1996,Honduras,HND,Central America,5047,5903954,-0.412654976,expected
+1995,Honduras,HND,Central America,27560,5739637,1.500628147,high
+2017,Honduras,HND,Central America,5258,9588137,-1.450988785,low
+1992,Honduras,HND,Central America,2114,5271431,-0.432242935,expected
+2008,Honduras,HND,Central America,16460,8012587,-0.160062863,expected
+2004,Honduras,HND,Central America,17626,7298994,0.019098198,expected
+1994,Honduras,HND,Central America,3055,5579242,-0.471758657,expected
+1999,Honduras,HND,Central America,17766,6400463,0.32715509,expected
+2003,Honduras,HND,Central America,16101,7119213,-0.051213095,expected
+2010,Honduras,HND,Central America,63546,8365878,1.127031033,high
+2004,Indonesia,IDN,Asia,95279,227926649,0.162808706,expected
+2008,Indonesia,IDN,Asia,98644,240157903,-0.140760433,expected
+2015,Indonesia,IDN,Asia,185198,261799249,0.328721601,expected
+2018,Indonesia,IDN,Asia,105285,269951846,-0.136554075,expected
+1994,Indonesia,IDN,Asia,35102,196591828,0.170244442,expected
+1993,Indonesia,IDN,Asia,18783,193305168,-0.311858796,expected
+2007,Indonesia,IDN,Asia,199441,237062337,0.6374444,high
+2014,Indonesia,IDN,Asia,138262,258877399,0.014018253,expected
+1996,Indonesia,IDN,Asia,30730,203204348,-0.239068693,expected
+2010,Indonesia,IDN,Asia,85668,246305322,-0.392276099,expected
+1998,Indonesia,IDN,Asia,21134,209826788,-0.836711008,low
+2000,Indonesia,IDN,Asia,45904,216077790,-0.240700369,expected
+2001,Indonesia,IDN,Asia,40377,219097902,-0.452166228,expected
+2019,Indonesia,IDN,Asia,119846,272489381,0.004122548,expected
+2013,Indonesia,IDN,Asia,91108,255852467,-0.407688698,expected
+2017,Indonesia,IDN,Asia,65600,267346658,-0.636666533,low
+2006,Indonesia,IDN,Asia,114281,233951652,0.165857753,expected
+1990,Indonesia,IDN,Asia,21120,183501098,0.177495061,expected
+1999,Indonesia,IDN,Asia,33443,213004668,-0.47016677,expected
+2022,Indonesia,IDN,Asia,124250,278830529,-0.043575564,expected
+2012,Indonesia,IDN,Asia,110821,252698525,-0.199565521,expected
+2016,Indonesia,IDN,Asia,125288,264627418,-0.027680654,expected
+1992,Indonesia,IDN,Asia,17418,190043744,-0.253824852,expected
+1991,Indonesia,IDN,Asia,17620,186778238,-0.119660464,expected
+2011,Indonesia,IDN,Asia,84716,249470032,-0.441617389,expected
+2023,Indonesia,IDN,Asia,226235,281190067,0.495793291,expected
+2005,Indonesia,IDN,Asia,114656,230871650,0.259189549,expected
+2003,Indonesia,IDN,Asia,79462,225048008,0.063957997,expected
+2002,Indonesia,IDN,Asia,51934,222088495,-0.281689082,expected
+1997,Indonesia,IDN,Asia,72133,206536095,0.494640625,expected
+2021,Indonesia,IDN,Asia,118748,276758053,-0.038307344,expected
+2009,Indonesia,IDN,Asia,166389,243220028,0.320860272,expected
+2020,Indonesia,IDN,Asia,54386,274814866,-0.790801314,low
+1995,Indonesia,IDN,Asia,44650,199888057,0.265430069,expected
+2007,India,IND,Asia,5530,1190676021,-0.628331541,low
+2000,India,IND,Asia,650,1057922733,-1.608548889,low
+2017,India,IND,Asia,188401,1359657400,0.541131631,high
+2009,India,IND,Asia,15535,1225524753,-0.140182474,expected
+1997,India,IND,Asia,1177,999133762,-1.116409776,low
+2010,India,IND,Asia,28292,1243481564,0.179472139,expected
+2013,India,IND,Asia,55153,1295829511,0.06245893,expected
+2008,India,IND,Asia,12540,1207930964,-0.077833897,expected
+2014,India,IND,Asia,28933,1312277191,-0.805648826,low
+2006,India,IND,Asia,12317,1172878890,0.424344917,expected
+2012,India,IND,Asia,37070,1278674502,-0.088361091,expected
+2001,India,IND,Asia,3306,1077898575,-0.043022113,expected
+2022,India,IND,Asia,233251,1425423212,-0.006516183,expected
+1995,India,IND,Asia,7847,960301044,0.584443144,high
+1990,India,IND,Asia,NA,864972221,0.008573556,expected
+2021,India,IND,Asia,193245,1414203896,-0.018831176,expected
+2016,India,IND,Asia,129166,1343944296,0.316841309,expected
+2019,India,IND,Asia,157315,1389030312,0.078835704,expected
+2005,India,IND,Asia,11985,1154676322,0.628566961,high
+1994,India,IND,Asia,7494,941163767,0.446265034,expected
+1992,India,IND,Asia,2683,902957070,-0.774235186,low
+1999,India,IND,Asia,944,1038225823,-1.22522437,low
+2003,India,IND,Asia,12754,1116803006,1.067248106,high
+1998,India,IND,Asia,707,1018665080,-1.551074512,low
+2018,India,IND,Asia,101192,1374659064,-0.222245996,expected
+2002,India,IND,Asia,1926,1097600380,-0.684922741,low
+1993,India,IND,Asia,11125,922118387,0.747097155,high
+2023,India,IND,Asia,289235,1438069596,0.026457238,expected
+2011,India,IND,Asia,18860,1261224954,-0.500344238,low
+1996,India,IND,Asia,16517,979678458,1.428738311,high
+1991,India,IND,Asia,6291,883927600,-0.031284734,expected
+2004,India,IND,Asia,4153,1135991513,-0.225788949,expected
+2015,India,IND,Asia,99913,1328024498,0.235116688,expected
+2020,India,IND,Asia,44585,1402617695,-1.325583752,low
+2004,Jamaica,JAM,Caribbean,9,2672225,-2.365031373,low
+2010,Jamaica,JAM,Caribbean,2887,2748568,1.818129591,high
+2005,Jamaica,JAM,Caribbean,46,2687066,-1.089775436,low
+2011,Jamaica,JAM,Caribbean,404,2760494,-0.321881245,expected
+2019,Jamaica,JAM,Caribbean,7555,2823271,2.126787115,high
+2016,Jamaica,JAM,Caribbean,2297,2809915,1.008142259,high
+1996,Jamaica,JAM,Caribbean,46,2524463,0.295821152,expected
+2020,Jamaica,JAM,Caribbean,898,2830739,-0.014153371,expected
+2017,Jamaica,JAM,Caribbean,219,2815764,-1.369342349,low
+1998,Jamaica,JAM,Caribbean,1509,2569736,3.486640609,high
+2003,Jamaica,JAM,Caribbean,52,2656623,-0.505875536,low
+1994,Jamaica,JAM,Caribbean,0,2475220,-3.499462032,low
+1999,Jamaica,JAM,Caribbean,24,2589795,-0.73732956,low
+2001,Jamaica,JAM,Caribbean,39,2624403,-0.474724403,expected
+1992,Jamaica,JAM,Caribbean,296,2424701,2.980854223,high
+2007,Jamaica,JAM,Caribbean,1448,2713800,1.811303077,high
+2023,Jamaica,JAM,Caribbean,8213,2839786,2.038180842,high
+2018,Jamaica,JAM,Caribbean,1155,2820097,0.265799977,expected
+2014,Jamaica,JAM,Caribbean,880,2793749,0.136927439,expected
+1991,Jamaica,JAM,Caribbean,5,2400869,-0.784302418,low
+2000,Jamaica,JAM,Caribbean,25,2607826,-0.795067346,low
+2012,Jamaica,JAM,Caribbean,4670,2772430,1.979141764,high
+2013,Jamaica,JAM,Caribbean,861,2783687,0.185084787,expected
+1995,Jamaica,JAM,Caribbean,1776,2500151,4.12929591,high
+1997,Jamaica,JAM,Caribbean,16,2547848,-0.902619809,low
+1993,Jamaica,JAM,Caribbean,0,2449916,-3.101126697,low
+2008,Jamaica,JAM,Caribbean,357,2725635,0.16000487,expected
+2009,Jamaica,JAM,Caribbean,70,2736995,-1.687368132,low
+2022,Jamaica,JAM,Caribbean,100,2839144,-2.287007663,low
+2021,Jamaica,JAM,Caribbean,96,2837682,-2.270058932,low
+2006,Jamaica,JAM,Caribbean,79,2700968,-0.824746315,low
+2002,Jamaica,JAM,Caribbean,90,2640572,0.209832995,expected
+2015,Jamaica,JAM,Caribbean,88,2802534,-2.202415215,low
+1990,Jamaica,JAM,Caribbean,9,2379877,-0.031285635,expected
+2008,Cambodia,KHM,Asia,9823,14053479,-0.371296313,expected
+2012,Cambodia,KHM,Asia,42352,14945085,0.909570263,high
+2011,Cambodia,KHM,Asia,15980,14722584,-0.041134473,expected
+1994,Cambodia,KHM,Asia,1498,9239162,-0.971191331,low
+2006,Cambodia,KHM,Asia,16669,13639028,0.316989491,expected
+1996,Cambodia,KHM,Asia,1433,10801270,-1.253601385,low
+2009,Cambodia,KHM,Asia,11699,14276810,-0.259794881,expected
+1997,Cambodia,KHM,Asia,4224,11570982,-0.295700855,expected
+2003,Cambodia,KHM,Asia,12081,13050968,0.252812533,expected
+2013,Cambodia,KHM,Asia,17533,15170208,0.024157694,expected
+1995,Cambodia,KHM,Asia,10428,10018497,0.84885461,high
+1990,Cambodia,KHM,Asia,7247,7374752,0.796010242,high
+1998,Cambodia,KHM,Asia,16248,12058173,0.952771308,high
+2016,Cambodia,KHM,Asia,12843,15852803,-0.218802942,expected
+1993,Cambodia,KHM,Asia,3913,8616381,0.0763816,expected
+1999,Cambodia,KHM,Asia,1530,12265731,-1.483178571,low
+2002,Cambodia,KHM,Asia,12471,12855241,0.363849513,expected
+2010,Cambodia,KHM,Asia,12500,14500726,-0.246772812,expected
+1991,Cambodia,KHM,Asia,1882,7686850,-0.562888457,low
+2014,Cambodia,KHM,Asia,3717,15396772,-1.512932635,low
+2007,Cambodia,KHM,Asia,39851,13841770,1.103145852,high
+2015,Cambodia,KHM,Asia,15412,15623251,-0.066897781,expected
+2017,Cambodia,KHM,Asia,6372,16073372,-0.886055653,low
+2020,Cambodia,KHM,Asia,11792,16725474,-0.197004843,expected
+2018,Cambodia,KHM,Asia,24684,16274522,0.496443431,expected
+2023,Cambodia,KHM,Asia,36206,17423880,0.874173895,high
+2000,Cambodia,KHM,Asia,3148,12462336,-0.84298109,low
+2004,Cambodia,KHM,Asia,10049,13244731,-0.011879512,expected
+2021,Cambodia,KHM,Asia,1903,16974305,-2.017367907,low
+2022,Cambodia,KHM,Asia,12741,17201724,-0.137936404,expected
+2005,Cambodia,KHM,Asia,9042,13439202,-0.204494971,expected
+1992,Cambodia,KHM,Asia,4695,8113083,0.31619641,expected
+2001,Cambodia,KHM,Asia,10569,12658484,0.282378519,expected
+2019,Cambodia,KHM,Asia,68597,16481304,1.542905468,high
+2023,Saint Kitts And Nevis,KNA,Caribbean,316,46758,2.962006122,high
+2015,Saint Kitts And Nevis,KNA,Caribbean,5,47087,-1.160332437,low
+1990,Saint Kitts And Nevis,KNA,Caribbean,0,40432,-0.129344623,expected
+1997,Saint Kitts And Nevis,KNA,Caribbean,0,43428,-1.177848525,low
+2004,Saint Kitts And Nevis,KNA,Caribbean,4,46315,-0.034715643,expected
+2001,Saint Kitts And Nevis,KNA,Caribbean,85,45761,3.297481968,high
+2021,Saint Kitts And Nevis,KNA,Caribbean,0,46763,-2.687469324,low
+2011,Saint Kitts And Nevis,KNA,Caribbean,46,46886,1.38732847,high
+1994,Saint Kitts And Nevis,KNA,Caribbean,0,41776,-2.337489943,low
+2019,Saint Kitts And Nevis,KNA,Caribbean,50,46952,1.144481536,high
+2016,Saint Kitts And Nevis,KNA,Caribbean,136,47075,2.03333667,high
+2020,Saint Kitts And Nevis,KNA,Caribbean,20,46870,0.27844143,expected
+2010,Saint Kitts And Nevis,KNA,Caribbean,19,46846,0.690641052,high
+2018,Saint Kitts And Nevis,KNA,Caribbean,6,47008,-1.001243795,low
+1999,Saint Kitts And Nevis,KNA,Caribbean,1,44601,-0.517582211,low
+2008,Saint Kitts And Nevis,KNA,Caribbean,49,46835,1.954124836,high
+1995,Saint Kitts And Nevis,KNA,Caribbean,27,42326,3.111030993,high
+1992,Saint Kitts And Nevis,KNA,Caribbean,0,40715,-0.753432729,low
+1996,Saint Kitts And Nevis,KNA,Caribbean,6,42877,1.387524659,high
+2017,Saint Kitts And Nevis,KNA,Caribbean,10,47050,-0.548952671,low
+2007,Saint Kitts And Nevis,KNA,Caribbean,0,46706,-2.103961415,low
+2006,Saint Kitts And Nevis,KNA,Caribbean,1,46569,-1.409952744,low
+1998,Saint Kitts And Nevis,KNA,Caribbean,0,43998,-0.818455176,low
+2022,Saint Kitts And Nevis,KNA,Caribbean,1,46709,-2.182917955,low
+1991,Saint Kitts And Nevis,KNA,Caribbean,8,40358,2.445083312,high
+1993,Saint Kitts And Nevis,KNA,Caribbean,0,41242,-1.7562021,low
+2000,Saint Kitts And Nevis,KNA,Caribbean,5,45248,0.586090391,high
+2014,Saint Kitts And Nevis,KNA,Caribbean,75,47089,1.490186942,high
+2003,Saint Kitts And Nevis,KNA,Caribbean,2,46176,-0.506209776,low
+2002,Saint Kitts And Nevis,KNA,Caribbean,20,46020,1.740783125,high
+2013,Saint Kitts And Nevis,KNA,Caribbean,100,47069,1.867088283,high
+2012,Saint Kitts And Nevis,KNA,Caribbean,2,47033,-1.650667248,low
+2005,Saint Kitts And Nevis,KNA,Caribbean,0,46437,-2.047448462,low
+2009,Saint Kitts And Nevis,KNA,Caribbean,2,46916,-1.235235,low
+2005,Laos,LAO,Asia,6152,5869523,-0.090364568,expected
+2001,Laos,LAO,Asia,3968,5521482,-0.423110309,expected
+2000,Laos,LAO,Asia,1377,5431212,-1.404698966,low
+2022,Laos,LAO,Asia,29064,7559007,0.773411109,high
+2018,Laos,LAO,Asia,6446,7128045,-0.356430977,expected
+1990,Laos,LAO,Asia,60,4311955,-1.087898805,low
+2019,Laos,LAO,Asia,39091,7237636,1.382962032,high
+2004,Laos,LAO,Asia,3972,5781626,-0.510722699,low
+2014,Laos,LAO,Asia,1922,6703172,-1.488227184,low
+1996,Laos,LAO,Asia,8197,5045678,1.118483213,high
+1993,Laos,LAO,Asia,343,4685060,-0.821857352,low
+2010,Laos,LAO,Asia,22929,6334194,1.043399201,high
+2003,Laos,LAO,Asia,17690,5697945,0.995779622,high
+1991,Laos,LAO,Asia,249,4435118,-0.167141828,expected
+1995,Laos,LAO,Asia,7781,4929409,1.415278402,high
+2008,Laos,LAO,Asia,4487,6148969,-0.503290336,low
+1998,Laos,LAO,Asia,7671,5248266,0.567145938,high
+2015,Laos,LAO,Asia,1959,6801645,-1.46589145,low
+2016,Laos,LAO,Asia,5636,6908802,-0.420872118,expected
+2017,Laos,LAO,Asia,11067,7018147,0.228168257,expected
+2020,Laos,LAO,Asia,7692,7346533,-0.319531213,expected
+2006,Laos,LAO,Asia,7114,5963200,0.029744685,expected
+2007,Laos,LAO,Asia,5391,6056236,-0.280284987,expected
+1992,Laos,LAO,Asia,265,4559646,-0.596567815,low
+2011,Laos,LAO,Asia,3816,6426590,-0.780148787,low
+1994,Laos,LAO,Asia,2585,4809220,0.733275845,high
+2002,Laos,LAO,Asia,9176,5610889,0.36514225,expected
+2009,Laos,LAO,Asia,7804,6241642,0.006754947,expected
+2012,Laos,LAO,Asia,10146,6518978,0.176957917,expected
+2021,Laos,LAO,Asia,1340,7453194,-2.169404883,low
+1997,Laos,LAO,Asia,3411,5152011,-0.035246157,expected
+1999,Laos,LAO,Asia,2507,5340784,-0.699226119,low
+2023,Laos,LAO,Asia,32084,7664993,0.728862287,high
+2013,Laos,LAO,Asia,44250,6611385,1.641992276,high
+2023,Saint Lucia,LCA,Caribbean,60,179285,-0.028640507,expected
+2022,Saint Lucia,LCA,Caribbean,15,178781,-1.462853275,low
+2009,Saint Lucia,LCA,Caribbean,18,169869,-1.022115132,low
+2007,Saint Lucia,LCA,Caribbean,39,167758,0.105871513,expected
+1996,Saint Lucia,LCA,Caribbean,65,150436,2.79989964,high
+2005,Saint Lucia,LCA,Caribbean,1,165450,-2.517888702,low
+2003,Saint Lucia,LCA,Caribbean,5,162976,-1.007850618,low
+1992,Saint Lucia,LCA,Caribbean,0,141617,-1.086648998,low
+1994,Saint Lucia,LCA,Caribbean,0,145890,-2.526460074,low
+2017,Saint Lucia,LCA,Caribbean,66,176342,-0.316234262,expected
+2004,Saint Lucia,LCA,Caribbean,11,164239,-0.49620938,expected
+2019,Saint Lucia,LCA,Caribbean,20,177661,-1.367097534,low
+2006,Saint Lucia,LCA,Caribbean,30,166639,0.052841532,expected
+2016,Saint Lucia,LCA,Caribbean,196,175646,0.752701367,high
+1991,Saint Lucia,LCA,Caribbean,4,139520,1.093464557,high
+2010,Saint Lucia,LCA,Caribbean,74,170906,0.222430925,expected
+2018,Saint Lucia,LCA,Caribbean,90,177017,0.031382242,expected
+2000,Saint Lucia,LCA,Caribbean,0,158616,-1.961429506,low
+1997,Saint Lucia,LCA,Caribbean,11,152569,0.786409198,high
+2012,Saint Lucia,LCA,Caribbean,10,172587,-1.969498854,low
+2021,Saint Lucia,LCA,Caribbean,39,178522,-0.603155671,low
+2013,Saint Lucia,LCA,Caribbean,234,173369,1.019173124,high
+1990,Saint Lucia,LCA,Caribbean,2,137857,0.738598229,high
+1998,Saint Lucia,LCA,Caribbean,0,154677,-1.536051652,low
+2001,Saint Lucia,LCA,Caribbean,292,160237,3.336384479,high
+1999,Saint Lucia,LCA,Caribbean,3,156702,-0.694716326,low
+1995,Saint Lucia,LCA,Caribbean,52,148208,2.819104524,high
+2014,Saint Lucia,LCA,Caribbean,167,174138,0.624130914,high
+1993,Saint Lucia,LCA,Caribbean,0,143726,-1.983956973,low
+2020,Saint Lucia,LCA,Caribbean,1318,178250,2.841990404,high
+2011,Saint Lucia,LCA,Caribbean,757,171801,2.399280804,high
+2015,Saint Lucia,LCA,Caribbean,25,174905,-1.281078354,low
+2002,Saint Lucia,LCA,Caribbean,51,161641,1.399278951,high
+2008,Saint Lucia,LCA,Caribbean,98,168808,0.832792931,high
+1990,Sri Lanka,LKA,Asia,1350,16352458,0.677051084,high
+1994,Sri Lanka,LKA,Asia,582,17275773,-0.523318779,low
+2021,Sri Lanka,LKA,Asia,36120,22156000,-0.689624503,low
+2014,Sri Lanka,LKA,Asia,45535,20778000,-0.057253046,expected
+1993,Sri Lanka,LKA,Asia,750,17025918,-0.14444116,expected
+2013,Sri Lanka,LKA,Asia,30450,20585000,-0.330479042,expected
+2022,Sri Lanka,LKA,Asia,76689,22181000,0.005244941,expected
+2019,Sri Lanka,LKA,Asia,96045,21803000,0.371290125,expected
+2003,Sri Lanka,LKA,Asia,4749,19951521,-0.156474858,expected
+2010,Sri Lanka,LKA,Asia,33988,20879089,0.289556749,expected
+1996,Sri Lanka,LKA,Asia,1298,17905018,-0.057821277,expected
+1992,Sri Lanka,LKA,Asia,656,16739284,-0.178837309,expected
+2012,Sri Lanka,LKA,Asia,43783,21169458,0.153485012,expected
+2009,Sri Lanka,LKA,Asia,35010,20756435,0.542973446,high
+2005,Sri Lanka,LKA,Asia,5994,20216524,-0.312428757,expected
+2018,Sri Lanka,LKA,Asia,51320,21670000,-0.221287909,expected
+2002,Sri Lanka,LKA,Asia,8931,19805752,0.658617355,high
+2007,Sri Lanka,LKA,Asia,7314,20492545,-0.554892035,low
+2017,Sri Lanka,LKA,Asia,176272,21453000,1.056281676,high
+2023,Sri Lanka,LKA,Asia,88659,22037000,0.0942218,expected
+2015,Sri Lanka,LKA,Asia,27702,20970000,-0.654490866,low
+1999,Sri Lanka,LKA,Asia,1688,18944731,-0.400783758,expected
+1991,Sri Lanka,LKA,Asia,1048,16475354,0.366393868,expected
+2004,Sri Lanka,LKA,Asia,15463,20087605,0.835756489,high
+1997,Sri Lanka,LKA,Asia,981,18248200,-0.531961512,low
+2001,Sri Lanka,LKA,Asia,4304,19600362,0.121277197,expected
+1998,Sri Lanka,LKA,Asia,1275,18596003,-0.473572235,expected
+1995,Sri Lanka,LKA,Asia,440,17564068,-0.95993478,low
+2011,Sri Lanka,LKA,Asia,27614,21009048,-0.123700706,expected
+2006,Sri Lanka,LKA,Asia,11980,20352411,0.16494733,expected
+2008,Sri Lanka,LKA,Asia,6555,20629378,-0.898509105,low
+2020,Sri Lanka,LKA,Asia,32232,21919000,-0.752645743,low
+2016,Sri Lanka,LKA,Asia,50954,21209000,-0.125428972,expected
+2000,Sri Lanka,LKA,Asia,3343,19293054,0.072558848,expected
+2023,Maldives,MDV,Asia,3417,525994,0.940025446,high
+2014,Maldives,MDV,Asia,824,413617,-0.737411296,low
+2009,Maldives,MDV,Asia,845,348275,-0.424061495,expected
+1990,Maldives,MDV,Asia,0,224762,0.004460801,expected
+2013,Maldives,MDV,Asia,725,400070,-0.864716606,low
+1999,Maldives,MDV,Asia,118,277412,1.306925949,high
+2008,Maldives,MDV,Asia,1824,336170,0.505107671,high
+2012,Maldives,MDV,Asia,1083,386818,-0.438898046,expected
+1995,Maldives,MDV,Asia,0,256649,-0.651035094,low
+2022,Maldives,MDV,Asia,2700,524106,0.717436886,high
+2000,Maldives,MDV,Asia,180,282019,1.098421468,high
+2011,Maldives,MDV,Asia,2909,373674,0.60244039,high
+2002,Maldives,MDV,Asia,27,291616,-1.76494463,low
+2017,Maldives,MDV,Asia,851,458287,-0.569847195,low
+2005,Maldives,MDV,Asia,1126,306429,0.791131107,high
+2021,Maldives,MDV,Asia,NA,516154,-0.929493418,low
+2015,Maldives,MDV,Asia,1890,428154,0.116005514,expected
+2003,Maldives,MDV,Asia,38,296491,-1.852477474,low
+2018,Maldives,MDV,Asia,1838,473099,0.260114989,expected
+1992,Maldives,MDV,Asia,0,238543,-0.471265704,expected
+2016,Maldives,MDV,Asia,1962,443308,0.201635778,expected
+1997,Maldives,MDV,Asia,3,267707,-0.649241615,low
+2001,Maldives,MDV,Asia,73,286767,-0.335829343,expected
+2006,Maldives,MDV,Asia,2777,313851,1.391867103,high
+2019,Maldives,MDV,Asia,2156,487731,0.469468307,expected
+1991,Maldives,MDV,Asia,0,231802,0.162244066,expected
+2010,Maldives,MDV,Asia,1000,360792,-0.377721399,expected
+2004,Maldives,MDV,Asia,742,301413,0.71559383,high
+1998,Maldives,MDV,Asia,1750,272723,4.752097491,high
+2020,Maldives,MDV,Asia,328,502118,-1.378073737,low
+1993,Maldives,MDV,Asia,0,244884,-0.304585127,expected
+1994,Maldives,MDV,Asia,0,250822,-0.403205361,expected
+2007,Maldives,MDV,Asia,1680,324479,0.631083486,high
+1996,Maldives,MDV,Asia,0,262347,-1.403822794,low
+1990,Mexico,MEX,Central America,14485,82820170,0.504681585,high
+2018,Mexico,MEX,Central America,78642,124573711,-0.395919421,expected
+1995,Mexico,MEX,Central America,36029,90862455,1.125502528,high
+2012,Mexico,MEX,Central America,165749,116818208,0.590956432,high
+2003,Mexico,MEX,Central America,6234,102978515,-1.011235554,low
+2017,Mexico,MEX,Central America,89961,123400057,-0.280150922,expected
+2002,Mexico,MEX,Central America,8415,101548624,-0.641071546,low
+2000,Mexico,MEX,Central America,21665,98625552,0.367996827,expected
+2013,Mexico,MEX,Central America,231498,118343573,0.800179082,high
+1999,Mexico,MEX,Central America,14655,97115707,-0.003913195,expected
+2005,Mexico,MEX,Central America,20912,105811504,-0.070899639,expected
+1996,Mexico,MEX,Central America,35082,92452702,1.011436907,high
+2009,Mexico,MEX,Central America,238389,111999721,1.506967754,high
+2019,Mexico,MEX,Central America,268494,125762982,0.853336403,high
+2015,Mexico,MEX,Central America,219593,121072306,0.617099317,high
+2022,Mexico,MEX,Central America,59918,128613117,-0.628563552,low
+1993,Mexico,MEX,Central America,2899,87653807,-1.21922769,low
+1992,Mexico,MEX,Central America,11348,86044809,0.198254887,expected
+1997,Mexico,MEX,Central America,52561,94021207,1.345278836,high
+2016,Mexico,MEX,Central America,130069,122251351,0.079359815,expected
+1991,Mexico,MEX,Central America,5863,84430572,-0.426298042,expected
+2001,Mexico,MEX,Central America,6019,100099099,-0.93544167,low
+2014,Mexico,MEX,Central America,124943,119784261,0.099135784,expected
+2021,Mexico,MEX,Central America,36742,127648148,-1.102967259,low
+2004,Mexico,MEX,Central America,7983,104394131,-0.876045648,low
+1998,Mexico,MEX,Central America,23267,95575245,0.484093708,expected
+2007,Mexico,MEX,Central America,49119,108774360,0.372509286,expected
+2020,Mexico,MEX,Central America,120639,126799054,0.076313968,expected
+2011,Mexico,MEX,Central America,63628,115243504,-0.206651107,expected
+2023,Mexico,MEX,Central America,281615,129739759,0.892178164,high
+2010,Mexico,MEX,Central America,51635,113623895,-0.228802093,expected
+2008,Mexico,MEX,Central America,25040,110374288,-0.525926325,low
+2006,Mexico,MEX,Central America,27335,107253666,0.002710552,expected
+1994,Mexico,MEX,Central America,6770,89259205,-0.449639482,expected
+1990,Myanmar,MMR,Asia,5696,39817251,0.554471724,high
+2014,Myanmar,MMR,Asia,14410,50681634,-0.277552076,expected
+2021,Myanmar,MMR,Asia,5446,53387102,-1.122618423,low
+1995,Myanmar,MMR,Asia,2063,42605338,-0.698488956,low
+1996,Myanmar,MMR,Asia,1731,43154860,-0.965132991,low
+2016,Myanmar,MMR,Asia,10385,51495696,-0.62178838,low
+2022,Myanmar,MMR,Asia,24971,53756787,0.40797733,expected
+1993,Myanmar,MMR,Asia,1742,41502429,-0.714119983,low
+2000,Myanmar,MMR,Asia,1222,45290841,-1.691799266,low
+2008,Myanmar,MMR,Asia,17281,48390793,0.288028264,expected
+2011,Myanmar,MMR,Asia,4297,49419820,-1.321947479,low
+2017,Myanmar,MMR,Asia,32891,51894938,0.55062691,high
+1994,Myanmar,MMR,Asia,11591,42055143,1.112198689,high
+2002,Myanmar,MMR,Asia,15663,46232653,0.691221573,high
+2005,Myanmar,MMR,Asia,16965,47438365,0.538464059,high
+2003,Myanmar,MMR,Asia,6792,46667192,-0.216500817,expected
+2019,Myanmar,MMR,Asia,23203,52640713,0.266283573,expected
+2015,Myanmar,MMR,Asia,42540,51089056,0.785597698,high
+2023,Myanmar,MMR,Asia,16130,54133798,-0.025790457,expected
+1997,Myanmar,MMR,Asia,3697,43708798,-0.30689065,expected
+2006,Myanmar,MMR,Asia,10392,47785135,-0.041740604,expected
+2020,Myanmar,MMR,Asia,15131,53016522,-0.125438899,expected
+1999,Myanmar,MMR,Asia,5495,44787724,-0.101149349,expected
+2009,Myanmar,MMR,Asia,23681,48660459,0.524700574,high
+2004,Myanmar,MMR,Asia,6624,47068772,-0.316931335,expected
+2012,Myanmar,MMR,Asia,7006,49837446,-0.898634325,low
+2018,Myanmar,MMR,Asia,22659,52272247,0.207868454,expected
+1998,Myanmar,MMR,Asia,12231,44257793,0.790020938,high
+1991,Myanmar,MMR,Asia,6677,40394154,0.698297814,high
+2007,Myanmar,MMR,Asia,14658,48125043,0.210189734,expected
+2013,Myanmar,MMR,Asia,22166,50262658,0.194495235,expected
+2010,Myanmar,MMR,Asia,15631,49024382,0.03662933,expected
+2001,Myanmar,MMR,Asia,15503,45771139,0.760849627,high
+1992,Myanmar,MMR,Asia,1418,40950342,-0.874737301,low
+2007,Malaysia,MYS,Asia,48846,26998389,0.29656708,expected
+2020,Malaysia,MYS,Asia,87171,33889558,0.095836351,expected
+2022,Malaysia,MYS,Asia,65732,34695493,-0.208648647,expected
+1992,Malaysia,MYS,Asia,5473,18834572,0.005948312,expected
+1995,Malaysia,MYS,Asia,6600,20330599,-0.329894242,expected
+2008,Malaysia,MYS,Asia,49335,27570059,0.209631894,expected
+2000,Malaysia,MYS,Asia,8805,22967816,-0.772009392,low
+1994,Malaysia,MYS,Asia,3133,19820446,-0.886688243,low
+2017,Malaysia,MYS,Asia,89487,32355644,0.119134592,expected
+1996,Malaysia,MYS,Asia,14255,20850087,0.25926816,expected
+2015,Malaysia,MYS,Asia,121619,31232798,0.480236018,expected
+2009,Malaysia,MYS,Asia,41486,28124778,-0.0585432,expected
+1998,Malaysia,MYS,Asia,27381,21906713,0.596679962,high
+2014,Malaysia,MYS,Asia,108698,30696137,0.429542905,expected
+2003,Malaysia,MYS,Asia,31545,24679602,0.223778344,expected
+2018,Malaysia,MYS,Asia,83651,32910967,0.04679205,expected
+2019,Malaysia,MYS,Asia,130282,33440596,0.491102319,expected
+1997,Malaysia,MYS,Asia,19429,21375218,0.400506184,expected
+2006,Malaysia,MYS,Asia,38556,26417909,0.157137465,expected
+2005,Malaysia,MYS,Asia,39686,25836071,0.280300236,expected
+2021,Malaysia,MYS,Asia,26978,34282399,-1.078988271,low
+2010,Malaysia,MYS,Asia,46171,28655776,-0.047587604,expected
+1990,Malaysia,MYS,Asia,4880,17833171,0.181296582,expected
+2002,Malaysia,MYS,Asia,32767,24102477,0.346304521,expected
+1993,Malaysia,MYS,Asia,5615,19322664,-0.128129288,expected
+2001,Malaysia,MYS,Asia,16368,23526538,-0.25407774,expected
+2004,Malaysia,MYS,Asia,33895,25256772,0.211996041,expected
+2011,Malaysia,MYS,Asia,20040,29162039,-0.979236564,low
+2012,Malaysia,MYS,Asia,23088,29662831,-0.937316581,low
+1991,Malaysia,MYS,Asia,6628,18342464,0.344899438,expected
+1999,Malaysia,MYS,Asia,10146,22435531,-0.519728912,low
+2013,Malaysia,MYS,Asia,43862,30174265,-0.393297551,expected
+2023,Malaysia,MYS,Asia,123133,35126298,0.391238586,expected
+2016,Malaysia,MYS,Asia,109037,31789685,0.333067752,expected
+1990,New Caledonia,NCL,Oceania,26,176456,0.964133282,high
+2017,New Caledonia,NCL,Oceania,1878,283546,1.378707309,high
+2008,New Caledonia,NCL,Oceania,8610,253825,3.30375717,high
+2021,New Caledonia,NCL,Oceania,34,285214,-1.53600102,low
+2013,New Caledonia,NCL,Oceania,291,276822,-0.700927784,low
+1995,New Caledonia,NCL,Oceania,0,200379,-3.428691513,low
+2003,New Caledonia,NCL,Oceania,792,236678,1.254583195,high
+2009,New Caledonia,NCL,Oceania,113,257250,-1.136571527,low
+2022,New Caledonia,NCL,Oceania,513,287123,1.473274125,high
+2018,New Caledonia,NCL,Oceania,4321,283541,2.429877303,high
+1991,New Caledonia,NCL,Oceania,10,181238,-0.294964734,expected
+2019,New Caledonia,NCL,Oceania,50,283606,-1.745474353,low
+1992,New Caledonia,NCL,Oceania,4,186072,-1.444310962,low
+1999,New Caledonia,NCL,Oceania,15,218527,-2.280766117,low
+2004,New Caledonia,NCL,Oceania,46,240852,-1.620204487,low
+2014,New Caledonia,NCL,Oceania,NA,281224,0.427314824,expected
+1994,New Caledonia,NCL,Oceania,1820,195614,3.767707571,high
+1998,New Caledonia,NCL,Oceania,359,214047,1.00355949,high
+1997,New Caledonia,NCL,Oceania,2618,209560,3.200376173,high
+2005,New Caledonia,NCL,Oceania,48,244381,-1.612106953,low
+2002,New Caledonia,NCL,Oceania,5673,232236,3.275217168,high
+2011,New Caledonia,NCL,Oceania,207,266543,-0.808602745,low
+2000,New Caledonia,NCL,Oceania,34,223098,-1.61218727,low
+2015,New Caledonia,NCL,Oceania,NA,283168,0.202459069,expected
+2006,New Caledonia,NCL,Oceania,47,247547,-1.690011582,low
+1996,New Caledonia,NCL,Oceania,154,205034,0.630103451,high
+2001,New Caledonia,NCL,Oceania,105,227707,-0.627100466,low
+2016,New Caledonia,NCL,Oceania,4182,283423,2.020658274,high
+2007,New Caledonia,NCL,Oceania,1179,250725,1.419751892,high
+2023,New Caledonia,NCL,Oceania,18,289870,-1.537959703,low
+2020,New Caledonia,NCL,Oceania,122,284176,-0.578612513,low
+2012,New Caledonia,NCL,Oceania,10912,271633,3.019921373,high
+2010,New Caledonia,NCL,Oceania,1,261582,-4.927918133,low
+1993,New Caledonia,NCL,Oceania,11,190857,-0.950382411,low
+2007,Nicaragua,NIC,Central America,12278,5497243,0.189152924,expected
+1997,Nicaragua,NIC,Central America,3058,4809573,-0.574144472,low
+2006,Nicaragua,NIC,Central America,10617,5418855,0.208125713,expected
+2009,Nicaragua,NIC,Central America,18063,5656601,0.208991379,expected
+1996,Nicaragua,NIC,Central America,2743,4729974,-0.665838645,low
+2017,Nicaragua,NIC,Central America,69472,6316231,0.209403416,expected
+2014,Nicaragua,NIC,Central America,35425,6066492,-0.065560906,expected
+1994,Nicaragua,NIC,Central America,20469,4549316,1.394804775,high
+1990,Nicaragua,NIC,Central America,4137,4162559,-0.099002245,expected
+2004,Nicaragua,NIC,Central America,8332,5272912,0.230900062,expected
+2022,Nicaragua,NIC,Central America,97541,6730654,-0.010014292,expected
+2001,Nicaragua,NIC,Central America,2333,5087825,-0.874638388,low
+2018,Nicaragua,NIC,Central America,59315,6400080,-0.054859636,expected
+2000,Nicaragua,NIC,Central America,6681,5022633,0.187282063,expected
+2005,Nicaragua,NIC,Central America,14678,5342105,0.677823089,high
+2008,Nicaragua,NIC,Central America,8666,5576593,-0.337584937,expected
+1999,Nicaragua,NIC,Central America,10401,4954018,0.632832184,high
+2020,Nicaragua,NIC,Central America,53953,6565267,-0.351583321,expected
+1992,Nicaragua,NIC,Central America,5495,4357026,0.140250042,expected
+2002,Nicaragua,NIC,Central America,2269,5149909,-0.929847325,low
+2012,Nicaragua,NIC,Central America,30878,5901287,0.153300153,expected
+2003,Nicaragua,NIC,Central America,2715,5210963,-0.804009019,low
+2021,Nicaragua,NIC,Central America,36741,6644741,-0.850219054,low
+2023,Nicaragua,NIC,Central America,182642,6823613,0.472516964,expected
+2011,Nicaragua,NIC,Central America,11881,5819051,-0.604723578,low
+2019,Nicaragua,NIC,Central America,186405,6483657,0.988257159,high
+2016,Nicaragua,NIC,Central America,88463,6232666,0.566558579,high
+2015,Nicaragua,NIC,Central America,49326,6149417,0.115359897,expected
+1998,Nicaragua,NIC,Central America,13160,4883655,0.87211106,high
+2010,Nicaragua,NIC,Central America,25174,5737450,0.344797295,expected
+1991,Nicaragua,NIC,Central America,1885,4259637,-0.904923866,low
+1993,Nicaragua,NIC,Central America,8938,4453732,0.59805027,high
+1995,Nicaragua,NIC,Central America,18454,4642931,1.259767279,high
+2013,Nicaragua,NIC,Central America,77179,5983845,0.882027926,high
+2023,Pakistan,PAK,Asia,6638,247504495,-1.769760405,low
+1993,Pakistan,PAK,Asia,NA,127020117,-0.166114526,expected
+1995,Pakistan,PAK,Asia,76,134582253,-0.31130284,expected
+2012,Pakistan,PAK,Asia,3764,207667125,-0.739348478,low
+2004,Pakistan,PAK,Asia,25,171286000,-2.698764104,low
+1996,Pakistan,PAK,Asia,NA,138557092,-0.247478486,expected
+1999,Pakistan,PAK,Asia,NA,150565377,-0.216330195,expected
+2001,Pakistan,PAK,Asia,NA,159270907,-0.009888746,expected
+1994,Pakistan,PAK,Asia,145,130748083,0.460397115,expected
+1992,Pakistan,PAK,Asia,NA,123546848,-0.436865507,expected
+2020,Pakistan,PAK,Asia,45121,235001746,0.439752934,expected
+2018,Pakistan,PAK,Asia,6054,226928892,-1.3381699,low
+1997,Pakistan,PAK,Asia,251,142531804,0.640495823,high
+1991,Pakistan,PAK,Asia,NA,120060406,0.181797361,expected
+2014,Pakistan,PAK,Asia,4128,214264647,-1.129217837,low
+2011,Pakistan,PAK,Asia,24928,203746065,1.460159667,high
+2009,Pakistan,PAK,Asia,946,194376534,-1.063927935,low
+2003,Pakistan,PAK,Asia,17,167110248,-2.785221072,low
+2016,Pakistan,PAK,Asia,9260,220138869,-0.65514944,low
+2019,Pakistan,PAK,Asia,48330,230800899,0.618471808,high
+2002,Pakistan,PAK,Asia,NA,163222549,0.072947456,expected
+2021,Pakistan,PAK,Asia,53682,239477801,0.508993258,high
+2010,Pakistan,PAK,Asia,9785,199239047,0.88087706,high
+2017,Pakistan,PAK,Asia,25023,223273967,0.205576118,expected
+2008,Pakistan,PAK,Asia,1795,189499113,-0.018437486,expected
+2000,Pakistan,PAK,Asia,NA,154879127,-0.37925323,expected
+2005,Pakistan,PAK,Asia,3940,175453212,1.963794312,high
+2007,Pakistan,PAK,Asia,1199,184493231,-0.010087635,expected
+2013,Pakistan,PAK,Asia,28883,211073978,1.034198045,high
+2006,Pakistan,PAK,Asia,1931,179682690,0.869945418,high
+1990,Pakistan,PAK,Asia,NA,116155576,0.008573556,expected
+1998,Pakistan,PAK,Asia,NA,146522356,0.304874878,expected
+2015,Pakistan,PAK,Asia,13088,217290883,-0.156749339,expected
+2022,Pakistan,PAK,Asia,78802,243700667,0.793734788,high
+2020,Panama,PAN,Central America,3987,4293261,-0.641716397,low
+2009,Panama,PAN,Central America,6783,3564381,0.87683089,high
+2008,Panama,PAN,Central America,2284,3500648,-0.120019786,expected
+2002,Panama,PAN,Central America,706,3129344,-0.840597643,low
+2021,Panama,PAN,Central America,3685,4345405,-0.815723845,low
+2016,Panama,PAN,Central America,9526,4029086,0.512390856,high
+2003,Panama,PAN,Central America,293,3189807,-1.764583071,low
+2019,Panama,PAN,Central America,9741,4234700,0.325548903,expected
+1991,Panama,PAN,Central America,0,2508265,-1.963759293,low
+1999,Panama,PAN,Central America,2782,2951822,0.85207025,high
+2010,Panama,PAN,Central America,1999,3628535,-0.438636911,expected
+2014,Panama,PAN,Central America,5517,3892101,0.151376243,expected
+1995,Panama,PAN,Central America,3080,2724557,2.746518332,high
+1998,Panama,PAN,Central America,2716,2893914,1.083351154,high
+2023,Panama,PAN,Central America,21437,4458759,0.692629078,high
+1990,Panama,PAN,Central America,0,2455583,-1.255556035,low
+1996,Panama,PAN,Central America,811,2780227,0.765424174,high
+2001,Panama,PAN,Central America,1538,3069537,-0.002409923,expected
+2018,Panama,PAN,Central America,7944,4167860,0.189941192,expected
+2015,Panama,PAN,Central America,4815,3960035,-0.08350293,expected
+2004,Panama,PAN,Central America,369,3251155,-1.591031086,low
+2005,Panama,PAN,Central America,3998,3313026,0.712976154,high
+1994,Panama,PAN,Central America,20469,2669546,5.422441726,high
+2007,Panama,PAN,Central America,3399,3437490,0.370088508,expected
+1992,Panama,PAN,Central America,0,2561336,-2.702017978,low
+2017,Panama,PAN,Central America,10702,4098707,0.555493446,high
+1997,Panama,PAN,Central America,2628,2836695,1.428923542,high
+2000,Panama,PAN,Central America,314,3010369,-1.488770147,low
+2006,Panama,PAN,Central America,4293,3375024,0.695446467,high
+2011,Panama,PAN,Central America,3844,3693505,0.11508861,expected
+2022,Panama,PAN,Central America,11924,4400773,0.237082704,expected
+2012,Panama,PAN,Central America,1194,3759256,-1.158894756,low
+1993,Panama,PAN,Central America,13,2615099,-1.004902749,low
+2013,Panama,PAN,Central America,4774,3825329,0.115047422,expected
+2000,Peru,PER,South America,25131,26598331,1.877626319,high
+1992,Peru,PER,South America,897,22946340,-0.400020052,expected
+2015,Peru,PER,South America,26223,30457600,-0.217879538,expected
+2001,Peru,PER,South America,10317,26964601,0.86212785,high
+1993,Peru,PER,South America,1471,23413783,-0.040626462,expected
+2005,Peru,PER,South America,5527,28101180,-0.26471016,expected
+1990,Peru,PER,South America,714,22014771,-0.376521265,expected
+1999,Peru,PER,South America,2649,26186504,-0.237423876,expected
+2003,Peru,PER,South America,9739,27580490,0.568679234,high
+1995,Peru,PER,South America,6395,24348919,1.148970784,high
+1991,Peru,PER,South America,1971,22483775,0.512928286,high
+1996,Peru,PER,South America,1357,24811171,-0.524306141,low
+2016,Peru,PER,South America,72939,30866494,0.6879434,high
+2013,Peru,PER,South America,23620,29817919,-0.076008142,expected
+2017,Peru,PER,South America,14465,31324637,-1.047286717,low
+2011,Peru,PER,South America,19099,29304086,-0.001479342,expected
+2020,Peru,PER,South America,27629,32838579,-0.868705261,low
+2022,Peru,PER,South America,213197,33475438,0.742312726,high
+2019,Peru,PER,South America,66659,32449303,0.18730099,expected
+1998,Peru,PER,South America,554,25738095,-1.668296568,low
+2006,Peru,PER,South America,5291,28324491,-0.464626026,expected
+2004,Peru,PER,South America,6342,27852190,0.013931391,expected
+1994,Peru,PER,South America,2732,23881493,0.436722415,expected
+2010,Peru,PER,South America,27683,29086019,0.524000087,high
+2009,Peru,PER,South America,21008,28896811,0.410031056,expected
+2021,Peru,PER,South America,72249,33155882,-0.110760074,expected
+2014,Peru,PER,South America,35837,30115826,0.213017888,expected
+2008,Peru,PER,South America,17428,28719041,0.389854189,expected
+2012,Peru,PER,South America,26124,29550366,0.164169056,expected
+2007,Peru,PER,South America,7721,28530699,-0.254094443,expected
+2023,Peru,PER,South America,342612,33845617,0.978075932,high
+2002,Peru,PER,South America,3622,27288217,-0.30272519,expected
+2018,Peru,PER,South America,8756,31897584,-1.68413428,low
+1997,Peru,PER,South America,988,25274147,-0.964346509,low
+1995,Philippines,PHL,Asia,5166,70546246,-0.515113908,low
+2017,Philippines,PHL,Asia,152224,108119693,-0.146195699,expected
+1994,Philippines,PHL,Asia,5603,69019291,-0.21433679,expected
+2000,Philippines,PHL,Asia,8561,79625397,-0.783295659,low
+1993,Philippines,PHL,Asia,5448,67530621,-0.017091863,expected
+2003,Philippines,PHL,Asia,29946,84731835,0.149159075,expected
+2012,Philippines,PHL,Asia,67699,100175512,-0.627197583,low
+2011,Philippines,PHL,Asia,117418,98248614,0.089310567,expected
+2018,Philippines,PHL,Asia,216190,109465287,0.229620447,expected
+2022,Philippines,PHL,Asia,220020,113964338,0.451538783,expected
+1991,Philippines,PHL,Asia,11317,64382249,1.180115568,high
+2019,Philippines,PHL,Asia,437563,110804683,0.976293852,high
+2008,Philippines,PHL,Asia,39620,92699095,-0.40436086,expected
+2002,Philippines,PHL,Asia,16663,83068889,-0.327768149,expected
+2021,Philippines,PHL,Asia,79592,113100950,-0.614899054,low
+2009,Philippines,PHL,Asia,57819,94384250,-0.229571349,expected
+2006,Philippines,PHL,Asia,37101,89508986,-0.081718036,expected
+2005,Philippines,PHL,Asia,33901,88015962,-0.001518891,expected
+2023,Philippines,PHL,Asia,71474,114891199,-0.623794397,low
+2010,Philippines,PHL,Asia,135355,96337125,0.418613619,expected
+1999,Philippines,PHL,Asia,9406,77753257,-0.575686279,low
+2013,Philippines,PHL,Asia,215139,102076336,0.389814728,expected
+1998,Philippines,PHL,Asia,35648,75791024,0.884366036,high
+1990,Philippines,PHL,Asia,588,62854666,-1.534528492,low
+1996,Philippines,PHL,Asia,14649,72190242,0.327134852,expected
+2015,Philippines,PHL,Asia,213930,105312992,0.217974743,expected
+1997,Philippines,PHL,Asia,12811,73908810,0.014531494,expected
+2007,Philippines,PHL,Asia,55639,91075184,0.134730087,expected
+2020,Philippines,PHL,Asia,88595,112081264,-0.564367316,low
+1992,Philippines,PHL,Asia,9108,65926125,0.727540995,high
+2016,Philippines,PHL,Asia,220518,106735719,0.220390906,expected
+2004,Philippines,PHL,Asia,23040,86394504,-0.238323225,expected
+2014,Philippines,PHL,Asia,113485,103767130,-0.352014729,expected
+2001,Philippines,PHL,Asia,25002,81401488,0.181834955,expected
+1994,Palau,PLW,Oceania,0,16770,-0.974798414,low
+1990,Palau,PLW,Oceania,NA,15259,0.440218886,expected
+2000,Palau,PLW,Oceania,1208,19178,3.895882157,high
+2011,Palau,PLW,Oceania,334,18078,2.276137268,high
+2020,Palau,PLW,Oceania,63,17792,-0.071414245,expected
+2007,Palau,PLW,Oceania,80,19302,1.020903009,high
+2012,Palau,PLW,Oceania,0,17765,-3.077277258,low
+2008,Palau,PLW,Oceania,204,19009,1.948489528,high
+2013,Palau,PLW,Oceania,9,17648,-1.461231007,low
+2018,Palau,PLW,Oceania,570,17814,1.985118423,high
+1992,Palau,PLW,Oceania,0,15989,-0.588241251,low
+1996,Palau,PLW,Oceania,0,17654,-2.187890083,low
+2021,Palau,PLW,Oceania,5,17783,-2.312314766,low
+2017,Palau,PLW,Oceania,698,17812,2.213270002,high
+1998,Palau,PLW,Oceania,14,18524,0.086779285,expected
+2004,Palau,PLW,Oceania,37,19820,0.147534619,expected
+1997,Palau,PLW,Oceania,0,18108,-1.723298397,low
+2009,Palau,PLW,Oceania,4,18709,-1.841382717,low
+2015,Palau,PLW,Oceania,NA,17770,0.202459069,expected
+2019,Palau,PLW,Oceania,1347,17798,2.889215186,high
+1993,Palau,PLW,Oceania,0,16372,-1.227834885,low
+2001,Palau,PLW,Oceania,863,19352,3.382961034,high
+2010,Palau,PLW,Oceania,9,18396,-1.253327817,low
+2002,Palau,PLW,Oceania,45,19503,0.353484153,expected
+2016,Palau,PLW,Oceania,NA,17797,0.53424786,high
+2014,Palau,PLW,Oceania,13,17715,-1.309106136,low
+1991,Palau,PLW,Oceania,0,15614,-0.047552385,expected
+2023,Palau,PLW,Oceania,4,17727,-2.100056361,low
+2003,Palau,PLW,Oceania,15,19659,-0.746755225,low
+2005,Palau,PLW,Oceania,0,19819,-3.078036782,low
+2006,Palau,PLW,Oceania,28,19593,-0.037919046,expected
+1995,Palau,PLW,Oceania,857,17195,5.628716664,high
+1999,Palau,PLW,Oceania,1,18901,-2.340752136,low
+2022,Palau,PLW,Oceania,122,17759,0.929768434,high
+2022,Puerto Rico,PRI,Caribbean,1023,3220137,1.3275213,high
+2003,Puerto Rico,PRI,Caribbean,3730,3826095,-0.376735498,expected
+2020,Puerto Rico,PRI,Caribbean,914,3281590,1.414812041,high
+1994,Puerto Rico,PRI,Caribbean,22000,3649237,0.970040451,high
+2016,Puerto Rico,PRI,Caribbean,168,3480432,-0.959516539,low
+1992,Puerto Rico,PRI,Caribbean,13009,3585176,0.329753044,expected
+2009,Puerto Rico,PRI,Caribbean,6588,3740410,0.295210739,expected
+2008,Puerto Rico,PRI,Caribbean,3319,3760866,-0.506179325,low
+1997,Puerto Rico,PRI,Caribbean,6893,3759430,0.024039939,expected
+2015,Puerto Rico,PRI,Caribbean,1867,3535167,1.015469262,high
+1995,Puerto Rico,PRI,Caribbean,6491,3683103,-0.179026181,expected
+2023,Puerto Rico,PRI,Caribbean,1292,3203792,1.421911754,high
+1998,Puerto Rico,PRI,Caribbean,17068,3781101,1.002064662,high
+2019,Puerto Rico,PRI,Caribbean,47,3302691,-1.525138558,low
+2021,Puerto Rico,PRI,Caribbean,636,3262711,0.970789912,high
+2010,Puerto Rico,PRI,Caribbean,21265,3724465,1.642524608,high
+2004,Puerto Rico,PRI,Caribbean,3277,3826878,-0.538349624,low
+2007,Puerto Rico,PRI,Caribbean,10964,3782995,0.626768725,high
+1991,Puerto Rico,PRI,Caribbean,10305,3562110,0.042121956,expected
+2014,Puerto Rico,PRI,Caribbean,8880,3585017,2.123686522,high
+1990,Puerto Rico,PRI,Caribbean,9444,3537000,-0.09923513,expected
+2006,Puerto Rico,PRI,Caribbean,3036,3805214,-0.671479605,low
+2001,Puerto Rico,PRI,Caribbean,5197,3818774,-0.035679911,expected
+2005,Puerto Rico,PRI,Caribbean,5682,3821362,-0.025176459,expected
+2018,Puerto Rico,PRI,Caribbean,0,3290690,-4.774697072,low
+2017,Puerto Rico,PRI,Caribbean,0,3410837,-4.931176264,low
+1999,Puerto Rico,PRI,Caribbean,4959,3800081,-0.165428452,expected
+1993,Puerto Rico,PRI,Caribbean,6600,3615497,-0.294622837,expected
+2000,Puerto Rico,PRI,Caribbean,2409,3810605,-0.833738208,low
+2013,Puerto Rico,PRI,Caribbean,18164,3631427,2.409870268,high
+2012,Puerto Rico,PRI,Caribbean,11774,3661045,1.60408037,high
+1996,Puerto Rico,PRI,Caribbean,4631,3724655,-0.443003745,expected
+2011,Puerto Rico,PRI,Caribbean,5623,3693464,0.557004126,high
+2002,Puerto Rico,PRI,Caribbean,2883,3823701,-0.618983961,low
+2011,Paraguay,PRY,South America,39063,5814626,0.348266102,expected
+1997,Paraguay,PRY,South America,0,4794412,-2.164327368,low
+2009,Paraguay,PRY,South America,13523,5671236,-0.071733327,expected
+2015,Paraguay,PRY,South America,52907,6159103,0.048857511,expected
+1991,Paraguay,PRY,South America,0,4144364,-0.49680684,expected
+1990,Paraguay,PRY,South America,0,4035747,0.172823517,expected
+2023,Paraguay,PRY,South America,327141,6844146,2.168265258,high
+2014,Paraguay,PRY,South America,68652,6069811,0.368897352,expected
+2021,Paraguay,PRY,South America,5715,6684182,-1.887660477,low
+2019,Paraguay,PRY,South America,232275,6515058,1.702574315,high
+1999,Paraguay,PRY,South America,24282,5003135,5.918949528,high
+2022,Paraguay,PRY,South America,24984,6760464,-0.399612473,expected
+2010,Paraguay,PRY,South America,42847,5737971,0.736324038,high
+1992,Paraguay,PRY,South America,0,4253600,-0.043104044,expected
+2018,Paraguay,PRY,South America,7840,6427382,-1.754447288,low
+1995,Paraguay,PRY,South America,0,4579806,-0.773372243,low
+2012,Paraguay,PRY,South America,144470,5897008,1.415446098,high
+2008,Paraguay,PRY,South America,6143,5613574,-0.475975143,expected
+1994,Paraguay,PRY,South America,0,4471417,-1.040857053,low
+2017,Paraguay,PRY,South America,33819,6338660,-0.356518987,expected
+1996,Paraguay,PRY,South America,0,4687543,-1.498146084,low
+2013,Paraguay,PRY,South America,10014,5982445,-1.434279368,low
+2020,Paraguay,PRY,South America,11457,6603739,-1.23794183,low
+2001,Paraguay,PRY,South America,1871,5187689,1.902422033,high
+2002,Paraguay,PRY,South America,137,5261328,-1.306222818,low
+1998,Paraguay,PRY,South America,1164,4900025,3.777542907,high
+2016,Paraguay,PRY,South America,18575,6249126,-0.997445054,low
+2007,Paraguay,PRY,South America,1953,5559386,-1.201362966,low
+2006,Paraguay,PRY,South America,28127,5505148,1.9194789,high
+2005,Paraguay,PRY,South America,4271,5448097,0.524774587,high
+1993,Paraguay,PRY,South America,0,4362696,0.025050423,expected
+2004,Paraguay,PRY,South America,405,5388175,-1.312925888,low
+2000,Paraguay,PRY,South America,38,5100868,-1.297741265,low
+2003,Paraguay,PRY,South America,164,5326436,-1.680684344,low
+1991,French Polynesia,PYF,Oceania,593,207744,1.028898239,high
+2004,French Polynesia,PYF,Oceania,50,255654,-1.346222658,low
+2016,French Polynesia,PYF,Oceania,7,279178,-2.912955624,low
+2009,French Polynesia,PYF,Oceania,250,269481,0.166162566,expected
+2007,French Polynesia,PYF,Oceania,176,266438,-0.205944998,expected
+2018,French Polynesia,PYF,Oceania,2534,279815,2.932095526,high
+2020,French Polynesia,PYF,Oceania,NA,279209,-1.737804722,low
+2013,French Polynesia,PYF,Oceania,2155,274728,2.378177588,high
+2010,French Polynesia,PYF,Oceania,12,270580,-2.780056665,low
+2012,French Polynesia,PYF,Oceania,1523,273084,2.015259754,high
+2002,French Polynesia,PYF,Oceania,47,247775,-1.261840302,low
+2008,French Polynesia,PYF,Oceania,2479,268379,2.439015877,high
+1994,French Polynesia,PYF,Oceania,206,218738,0.435279927,expected
+2022,French Polynesia,PYF,Oceania,208,280378,0.833455685,high
+1996,French Polynesia,PYF,Oceania,0,225489,-4.234363071,low
+1990,French Polynesia,PYF,Oceania,518,203776,0.712225903,high
+2019,French Polynesia,PYF,Oceania,242,279034,0.686603423,high
+2003,French Polynesia,PYF,Oceania,59,251637,-1.110590937,low
+1997,French Polynesia,PYF,Oceania,14,229121,-1.982820392,low
+2017,French Polynesia,PYF,Oceania,151,280087,0.022618278,expected
+2015,French Polynesia,PYF,Oceania,664,277866,1.320816486,high
+1995,French Polynesia,PYF,Oceania,577,222118,1.560495189,high
+2014,French Polynesia,PYF,Oceania,348,276387,0.601709232,high
+2011,French Polynesia,PYF,Oceania,0,271727,-4.617433957,low
+1992,French Polynesia,PYF,Oceania,355,211559,0.690439734,high
+2005,French Polynesia,PYF,Oceania,818,259507,1.38428883,high
+1993,French Polynesia,PYF,Oceania,134,215219,-0.127320227,expected
+2000,French Polynesia,PYF,Oceania,32800,240337,5.417029086,high
+2023,French Polynesia,PYF,Oceania,65,281118,-0.253972458,expected
+2021,French Polynesia,PYF,Oceania,NA,279792,-1.055506868,low
+2006,French Polynesia,PYF,Oceania,1897,263223,2.183652243,high
+1998,French Polynesia,PYF,Oceania,33,232891,-1.266764934,low
+1999,French Polynesia,PYF,Oceania,36,236595,-1.288938691,low
+2001,French Polynesia,PYF,Oceania,230,244097,0.372974348,expected
+1992,Saudi Arabia,SAU,Asia,0,11686676,-1.546799841,low
+2005,Saudi Arabia,SAU,Asia,NA,20559890,0.158869634,expected
+1995,Saudi Arabia,SAU,Asia,136,13289245,2.233340223,high
+2002,Saudi Arabia,SAU,Asia,11,17910910,-2.149774468,low
+2021,Saudi Arabia,SAU,Asia,3421,30784383,-0.195667658,expected
+2007,Saudi Arabia,SAU,Asia,490,22368313,-0.354457596,expected
+2001,Saudi Arabia,SAU,Asia,7,17041397,-2.263878797,low
+2006,Saudi Arabia,SAU,Asia,1544,21459144,1.197930594,high
+2023,Saudi Arabia,SAU,Asia,15010,33702731,1.161954839,high
+2016,Saudi Arabia,SAU,Asia,5428,30954198,0.084334364,expected
+2022,Saudi Arabia,SAU,Asia,1470,32175224,-1.092886748,low
+1999,Saudi Arabia,SAU,Asia,26,15472075,-0.630831818,low
+2020,Saudi Arabia,SAU,Asia,2375,31552510,-0.59917461,low
+2017,Saudi Arabia,SAU,Asia,3462,30977355,-0.330935903,expected
+1998,Saudi Arabia,SAU,Asia,31,14922185,-0.233312254,expected
+2010,Saudi Arabia,SAU,Asia,3526,23978487,0.592051227,high
+2004,Saudi Arabia,SAU,Asia,NA,19669480,-0.033882782,expected
+1993,Saudi Arabia,SAU,Asia,1,12215862,-1.177721027,low
+2009,Saudi Arabia,SAU,Asia,3350,24217654,0.814937256,high
+2012,Saudi Arabia,SAU,Asia,1749,26168861,-0.621405806,low
+2013,Saudi Arabia,SAU,Asia,6512,27624004,0.500137456,high
+1997,Saudi Arabia,SAU,Asia,62,14374943,0.709032076,high
+1996,Saudi Arabia,SAU,Asia,57,13831009,0.950664829,high
+1991,Saudi Arabia,SAU,Asia,0,11160744,-0.930650333,low
+2014,Saudi Arabia,SAU,Asia,2081,28309273,-0.751520276,low
+1994,Saudi Arabia,SAU,Asia,315,12750040,3.575974672,high
+2018,Saudi Arabia,SAU,Asia,5345,30196281,0.174814157,expected
+2000,Saudi Arabia,SAU,Asia,17,16177722,-1.25820697,low
+2015,Saudi Arabia,SAU,Asia,4312,29816382,-0.113182135,expected
+2008,Saudi Arabia,SAU,Asia,913,23287877,-0.123052096,expected
+2011,Saudi Arabia,SAU,Asia,3302,25091867,0.243797929,expected
+2019,Saudi Arabia,SAU,Asia,2228,30063799,-0.650130358,low
+2003,Saudi Arabia,SAU,Asia,NA,18786767,-0.203793252,expected
+1990,Saudi Arabia,SAU,Asia,0,10640691,-0.727733414,low
+1990,Singapore,SGP,Asia,1733,3047132,0.113439151,expected
+2017,Singapore,SGP,Asia,2838,5612253,-1.292268433,low
+2010,Singapore,SGP,Asia,5392,5076732,-0.340930897,expected
+2013,Singapore,SGP,Asia,22405,5399162,0.840185968,high
+1995,Singapore,SGP,Asia,2008,3524506,-0.094008086,expected
+2022,Singapore,SGP,Asia,31853,5637022,0.908409666,high
+1997,Singapore,SGP,Asia,4300,3796038,0.472708805,expected
+2015,Singapore,SGP,Asia,11294,5535002,0.092997407,expected
+2005,Singapore,SGP,Asia,14209,4265762,1.141729507,high
+2006,Singapore,SGP,Asia,3136,4401365,-0.466550998,expected
+2003,Singapore,SGP,Asia,4788,4114826,0.217213074,expected
+2021,Singapore,SGP,Asia,5245,5453566,-0.791731721,low
+1993,Singapore,SGP,Asia,947,3313471,-0.65979435,low
+2012,Singapore,SGP,Asia,4734,5312437,-0.646855043,low
+2019,Singapore,SGP,Asia,16007,5703569,0.377870849,expected
+1994,Singapore,SGP,Asia,1239,3419048,-0.47782171,expected
+2009,Singapore,SGP,Asia,4523,4987573,-0.430052737,expected
+1999,Singapore,SGP,Asia,1355,3958723,-0.80379124,low
+2016,Singapore,SGP,Asia,13110,5607283,0.233267434,expected
+1992,Singapore,SGP,Asia,2878,3230698,0.51495779,high
+1998,Singapore,SGP,Asia,5258,3927213,0.595109468,high
+2020,Singapore,SGP,Asia,34959,5685807,1.118969353,high
+2011,Singapore,SGP,Asia,5266,5183688,-0.453211271,expected
+2007,Singapore,SGP,Asia,8826,4588599,0.457368764,expected
+2001,Singapore,SGP,Asia,2379,4138012,-0.373964133,expected
+2004,Singapore,SGP,Asia,9459,4166664,0.823849067,high
+1996,Singapore,SGP,Asia,3128,3670704,0.24501931,expected
+2023,Singapore,SGP,Asia,10243,5917648,-0.347174062,expected
+2008,Singapore,SGP,Asia,7032,4839396,0.108437692,expected
+2014,Singapore,SGP,Asia,18326,5469724,0.59656667,high
+2018,Singapore,SGP,Asia,3283,5638676,-1.162996812,low
+2000,Singapore,SGP,Asia,673,4027887,-1.559642235,low
+2002,Singapore,SGP,Asia,3947,4175950,0.067232299,expected
+1991,Singapore,SGP,Asia,2179,3135083,0.293489216,expected
+2016,El Salvador,SLV,Central America,8789,6200800,-0.593515745,low
+1999,El Salvador,SLV,Central America,556,5913900,-1.521374367,low
+2000,El Salvador,SLV,Central America,2837,5943366,-0.065209826,expected
+2009,El Salvador,SLV,Central America,14928,6048279,-0.068881654,expected
+2018,El Salvador,SLV,Central America,8448,6219807,-0.361355255,expected
+1994,El Salvador,SLV,Central America,8145,5714129,1.489317938,high
+1991,El Salvador,SLV,Central America,1273,5495077,-0.393818616,expected
+2002,El Salvador,SLV,Central America,17902,5986631,1.365015533,high
+2017,El Salvador,SLV,Central America,4402,6213533,-1.149265312,low
+2023,El Salvador,SLV,Central America,5863,6309624,-0.177880678,expected
+2005,El Salvador,SLV,Central America,15083,6005578,0.578650758,high
+1990,El Salvador,SLV,Central America,2381,5399726,0.207863928,expected
+2010,El Salvador,SLV,Central America,22221,6068249,0.217708829,expected
+2001,El Salvador,SLV,Central America,1039,5968060,-1.267896101,low
+2013,El Salvador,SLV,Central America,28877,6138839,0.347966977,expected
+2015,El Salvador,SLV,Central America,50169,6183676,1.029225219,high
+2022,El Salvador,SLV,Central America,16542,6280319,0.771635675,high
+1997,El Salvador,SLV,Central America,423,5844578,-1.562979327,low
+2007,El Salvador,SLV,Central America,12376,6009824,0.027568294,expected
+2008,El Salvador,SLV,Central America,5774,6029297,-0.886511857,low
+2003,El Salvador,SLV,Central America,7298,5998599,0.256679083,expected
+2012,El Salvador,SLV,Central America,43163,6113975,0.753252226,high
+2004,El Salvador,SLV,Central America,13190,6004671,0.642630258,high
+1992,El Salvador,SLV,Central America,884,5585609,-0.740146034,low
+2006,El Salvador,SLV,Central America,21843,6002319,0.763891186,high
+2014,El Salvador,SLV,Central America,53460,6162955,1.006209359,high
+2021,El Salvador,SLV,Central America,5752,6255782,-0.376255175,expected
+1998,El Salvador,SLV,Central America,1686,5880781,-0.27972242,expected
+2020,El Salvador,SLV,Central America,5450,6234673,-0.539840598,low
+1996,El Salvador,SLV,Central America,789,5805286,-0.883959262,low
+1995,El Salvador,SLV,Central America,9529,5762131,1.632396098,high
+2011,El Salvador,SLV,Central America,20623,6090127,0.060777352,expected
+1993,El Salvador,SLV,Central America,9015,5659957,1.59043173,high
+2019,El Salvador,SLV,Central America,27490,6222318,0.950964853,high
+1999,Suriname,SUR,South America,695,466916,0.749392627,high
+2010,Suriname,SUR,South America,93,549923,-0.180673943,expected
+2015,Suriname,SUR,South America,15,581627,-1.261100316,low
+2001,Suriname,SUR,South America,748,486560,0.442622575,expected
+2007,Suriname,SUR,South America,41,531016,-1.584802919,low
+2009,Suriname,SUR,South America,120,543568,-0.100962263,expected
+2000,Suriname,SUR,South America,1069,476643,0.924994027,high
+2021,Suriname,SUR,South America,10,617896,-1.527619304,low
+1993,Suriname,SUR,South America,0,419352,-1.521805611,low
+1997,Suriname,SUR,South America,90,448067,-0.345959387,expected
+2019,Suriname,SUR,South America,98,605768,0.713058794,high
+2023,Suriname,SUR,South America,287,628886,1.710254935,high
+1996,Suriname,SUR,South America,677,438830,2.364637036,high
+2016,Suriname,SUR,South America,6,587757,-2.014858586,low
+2002,Suriname,SUR,South America,1081,496551,0.79519069,high
+2017,Suriname,SUR,South America,7,593713,-1.892121167,low
+1992,Suriname,SUR,South America,0,417589,-1.04100081,low
+2014,Suriname,SUR,South America,23,575373,-0.965415262,low
+2006,Suriname,SUR,South America,253,524997,-0.014128376,expected
+1994,Suriname,SUR,South America,0,422375,-2.519867903,low
+1990,Suriname,SUR,South America,0,412493,-0.175150635,expected
+2005,Suriname,SUR,South America,2712,519313,2.130750656,high
+2011,Suriname,SUR,South America,386,556269,1.398145681,high
+2018,Suriname,SUR,South America,123,599513,0.932606844,high
+1995,Suriname,SUR,South America,344,429606,2.514363244,high
+2004,Suriname,SUR,South America,368,513923,-0.060234928,expected
+2008,Suriname,SUR,South America,12,537245,-2.494922284,low
+1998,Suriname,SUR,South America,1140,457406,1.639190256,high
+1991,Suriname,SUR,South America,0,415013,-0.927873697,low
+2020,Suriname,SUR,South America,563,612317,2.459999796,high
+2013,Suriname,SUR,South America,21,569020,-1.186208808,low
+2012,Suriname,SUR,South America,781,562633,2.255784462,high
+2022,Suriname,SUR,South America,17,623164,-1.033524739,low
+2003,Suriname,SUR,South America,284,506414,-0.463233359,expected
+2001,Thailand,THA,Asia,139327,63651141,0.849279705,high
+2016,Thailand,THA,Asia,38466,70859841,-0.332781306,expected
+2020,Thailand,THA,Asia,72519,71641484,0.28181743,expected
+2018,Thailand,THA,Asia,87212,71376079,0.486483639,expected
+2021,Thailand,THA,Asia,10617,71727332,-1.668572907,low
+2006,Thailand,THA,Asia,42456,66567687,-0.12297237,expected
+1992,Thailand,THA,Asia,41125,56528834,-0.31076371,expected
+2008,Thailand,THA,Asia,89626,67619830,0.623521124,high
+1995,Thailand,THA,Asia,60330,59098232,-0.023547646,expected
+1998,Thailand,THA,Asia,129954,61522630,0.693936372,high
+2009,Thailand,THA,Asia,25194,68121080,-0.655428019,low
+1994,Thailand,THA,Asia,51688,58260854,-0.138209826,expected
+2010,Thailand,THA,Asia,53149,68579447,0.073024767,expected
+1993,Thailand,THA,Asia,67017,57408198,0.155054663,expected
+2017,Thailand,THA,Asia,31843,71160187,-0.518340989,low
+2005,Thailand,THA,Asia,45893,66017420,-0.064222318,expected
+2000,Thailand,THA,Asia,18617,63007815,-1.200724717,low
+1991,Thailand,THA,Asia,43511,55637434,-0.244817923,expected
+1996,Thailand,THA,Asia,38109,59920064,-0.512389161,low
+2022,Thailand,THA,Asia,46678,71735329,-0.240936023,expected
+2007,Thailand,THA,Asia,62949,67102394,0.275167275,expected
+1997,Thailand,THA,Asia,101689,60724584,0.449456174,expected
+2013,Thailand,THA,Asia,87502,69845114,0.503408574,high
+2015,Thailand,THA,Asia,86953,70540795,0.480841886,expected
+2019,Thailand,THA,Asia,131157,71522271,0.886712577,high
+2002,Thailand,THA,Asia,114800,64266437,0.704867721,high
+1990,Thailand,THA,Asia,92002,54738329,0.505124166,high
+2014,Thailand,THA,Asia,23170,70216367,-0.837614957,low
+2004,Thailand,THA,Asia,38367,65452047,-0.279845383,expected
+1999,Thailand,THA,Asia,24900,62299043,-0.939106603,low
+2012,Thailand,THA,Asia,39321,69436098,-0.274934721,expected
+2003,Thailand,THA,Asia,62767,64868166,0.159215041,expected
+2011,Thailand,THA,Asia,29759,69007208,-0.529070955,low
+2023,Thailand,THA,Asia,159219,71702435,0.922474328,high
+2005,Tonga,TON,Oceania,0,105671,-2.130102168,low
+2017,Tonga,TON,Oceania,368,105356,2.420668659,high
+2022,Tonga,TON,Oceania,1232,105042,4.226885044,high
+1999,Tonga,TON,Oceania,0,102046,-1.749366843,low
+2000,Tonga,TON,Oceania,0,102677,-1.204771638,low
+2009,Tonga,TON,Oceania,30,107203,0.348137558,expected
+2002,Tonga,TON,Oceania,80,103874,3.023258944,high
+2012,Tonga,TON,Oceania,NA,107460,0.266025264,expected
+2014,Tonga,TON,Oceania,1559,106609,3.624707482,high
+1996,Tonga,TON,Oceania,0,100275,-1.942593785,low
+2023,Tonga,TON,Oceania,10,104597,-0.518015848,low
+1990,Tonga,TON,Oceania,122,99700,2.058869999,high
+2013,Tonga,TON,Oceania,51,107078,0.260977542,expected
+2021,Tonga,TON,Oceania,0,105490,-2.959831668,low
+2019,Tonga,TON,Oceania,4,105669,-1.614271406,low
+2016,Tonga,TON,Oceania,100,105524,0.984591379,high
+1997,Tonga,TON,Oceania,460,100674,5.052944215,high
+2006,Tonga,TON,Oceania,62,106253,1.807624099,high
+2020,Tonga,TON,Oceania,0,105704,-3.271765045,low
+1992,Tonga,TON,Oceania,9,100022,0.148727127,expected
+2004,Tonga,TON,Oceania,0,105071,-2.315723353,low
+1998,Tonga,TON,Oceania,0,101388,-1.214019012,low
+1994,Tonga,TON,Oceania,0,100166,-1.551133713,low
+2008,Tonga,TON,Oceania,273,107020,2.778796136,high
+1991,Tonga,TON,Oceania,35,99895,1.165781093,high
+1995,Tonga,TON,Oceania,3,100225,-0.125987914,expected
+2010,Tonga,TON,Oceania,0,107400,-3.210315673,low
+2003,Tonga,TON,Oceania,3,104464,-0.433256799,expected
+2015,Tonga,TON,Oceania,NA,106095,0.202459069,expected
+2001,Tonga,TON,Oceania,0,103288,-1.611661994,low
+2011,Tonga,TON,Oceania,0,107570,-3.17169632,low
+2018,Tonga,TON,Oceania,14,105567,-0.641032533,low
+2007,Tonga,TON,Oceania,195,106726,2.687076552,high
+1993,Tonga,TON,Oceania,1,100103,-1.420773633,low
+1990,Trinidad And Tobago,TTO,Caribbean,526,1252208,1.958300503,high
+1995,Trinidad And Tobago,TTO,Caribbean,4295,1295169,2.409310175,high
+1997,Trinidad And Tobago,TTO,Caribbean,745,1305836,0.045333425,expected
+2022,Trinidad And Tobago,TTO,Caribbean,52,1365805,-0.545261785,low
+2021,Trinidad And Tobago,TTO,Caribbean,20,1367558,-1.554567443,low
+2008,Trinidad And Tobago,TTO,Caribbean,2358,1308587,2.085553165,high
+2001,Trinidad And Tobago,TTO,Caribbean,2158,1325567,0.690638139,high
+2015,Trinidad And Tobago,TTO,Caribbean,1687,1349667,2.473263211,high
+2011,Trinidad And Tobago,TTO,Caribbean,1242,1328019,1.975648673,high
+2000,Trinidad And Tobago,TTO,Caribbean,2017,1319774,0.618354948,high
+1991,Trinidad And Tobago,TTO,Caribbean,36,1262171,-1.001738987,low
+2002,Trinidad And Tobago,TTO,Caribbean,5973,1332011,1.784107198,high
+2019,Trinidad And Tobago,TTO,Caribbean,416,1363985,1.262138554,high
+1998,Trinidad And Tobago,TTO,Caribbean,2984,1310225,1.217829908,high
+2016,Trinidad And Tobago,TTO,Caribbean,1801,1353895,2.544179239,high
+1999,Trinidad And Tobago,TTO,Caribbean,1200,1314708,0.167093773,expected
+2020,Trinidad And Tobago,TTO,Caribbean,59,1366725,-0.580027075,low
+1996,Trinidad And Tobago,TTO,Caribbean,3983,1300928,2.002902824,high
+2007,Trinidad And Tobago,TTO,Caribbean,47,1303188,-2.020250758,low
+2013,Trinidad And Tobago,TTO,Caribbean,0,1340557,-4.100573527,low
+2023,Trinidad And Tobago,TTO,Caribbean,126,1367510,0.411629517,expected
+2012,Trinidad And Tobago,TTO,Caribbean,0,1335194,-4.346488002,low
+2003,Trinidad And Tobago,TTO,Caribbean,2209,1338709,0.931390959,high
+1993,Trinidad And Tobago,TTO,Caribbean,38,1280466,-1.604652911,low
+2005,Trinidad And Tobago,TTO,Caribbean,411,1294494,-0.306556739,expected
+1992,Trinidad And Tobago,TTO,Caribbean,116,1271674,-0.158756989,expected
+2014,Trinidad And Tobago,TTO,Caribbean,148,1345343,0.050091194,expected
+2017,Trinidad And Tobago,TTO,Caribbean,300,1356633,0.785660304,high
+2010,Trinidad And Tobago,TTO,Caribbean,4737,1317714,3.160199915,high
+2004,Trinidad And Tobago,TTO,Caribbean,497,1345380,-0.371391618,expected
+1994,Trinidad And Tobago,TTO,Caribbean,0,1288341,-5.153399628,low
+2018,Trinidad And Tobago,TTO,Caribbean,123,1359193,-0.043300402,expected
+2009,Trinidad And Tobago,TTO,Caribbean,24,1310106,-2.264175677,low
+2006,Trinidad And Tobago,TTO,Caribbean,36,1297944,-2.495926275,low
+1996,Saint Vincent,VCT,Caribbean,190,113119,2.792281048,high
+2006,Saint Vincent,VCT,Caribbean,5,112014,-0.935519533,low
+2013,Saint Vincent,VCT,Caribbean,127,108135,1.310038969,high
+2016,Saint Vincent,VCT,Caribbean,89,106349,0.871337425,high
+2010,Saint Vincent,VCT,Caribbean,217,109959,2.219201378,high
+1993,Saint Vincent,VCT,Caribbean,7,112735,-0.229322146,expected
+1999,Saint Vincent,VCT,Caribbean,8,113366,-0.345047268,expected
+2002,Saint Vincent,VCT,Caribbean,123,113347,2.440391453,high
+2021,Saint Vincent,VCT,Caribbean,152,102841,1.194331082,high
+1991,Saint Vincent,VCT,Caribbean,1,112222,-1.211379588,low
+2014,Saint Vincent,VCT,Caribbean,117,107535,1.177884054,high
+2017,Saint Vincent,VCT,Caribbean,3,105663,-2.279734863,low
+1994,Saint Vincent,VCT,Caribbean,0,112918,-3.027642639,low
+1997,Saint Vincent,VCT,Caribbean,3,113141,-1.224748643,low
+2005,Saint Vincent,VCT,Caribbean,8,112450,-0.397055005,expected
+2019,Saint Vincent,VCT,Caribbean,11,104167,-1.238597809,low
+2000,Saint Vincent,VCT,Caribbean,5,113545,-0.709209724,low
+1998,Saint Vincent,VCT,Caribbean,88,113180,1.980781413,high
+2020,Saint Vincent,VCT,Caribbean,1603,103526,3.608560936,high
+1990,Saint Vincent,VCT,Caribbean,9,111812,0.617436786,high
+2009,Saint Vincent,VCT,Caribbean,10,110508,-0.677999536,low
+2001,Saint Vincent,VCT,Caribbean,3,113501,-1.039006651,low
+2004,Saint Vincent,VCT,Caribbean,4,112835,-0.925452938,low
+2023,Saint Vincent,VCT,Caribbean,17,101323,-1.033034119,low
+2008,Saint Vincent,VCT,Caribbean,6,111028,-0.963466381,low
+2011,Saint Vincent,VCT,Caribbean,47,109349,0.54380679,high
+2012,Saint Vincent,VCT,Caribbean,91,108736,1.061872005,high
+2007,Saint Vincent,VCT,Caribbean,2,111531,-1.742361773,low
+1995,Saint Vincent,VCT,Caribbean,224,113047,3.046706999,high
+2022,Saint Vincent,VCT,Caribbean,25,102046,-0.652186225,low
+2018,Saint Vincent,VCT,Caribbean,4,104926,-2.122714147,low
+1992,Saint Vincent,VCT,Caribbean,7,112509,0.022295533,expected
+2003,Saint Vincent,VCT,Caribbean,3,113141,-1.098804773,low
+2015,Saint Vincent,VCT,Caribbean,13,106960,-1.007361639,low
+2023,Venezuela,VEN,South America,4809,28300854,-0.007653721,expected
+2020,Venezuela,VEN,South America,6721,28444077,-0.465226968,expected
+2013,Venezuela,VEN,South America,63726,29912198,0.252218627,expected
+1994,Venezuela,VEN,South America,15046,21725188,0.238595661,expected
+1996,Venezuela,VEN,South America,7500,22662113,-0.813588902,low
+2022,Venezuela,VEN,South America,11409,28213017,0.601089393,high
+2016,Venezuela,VEN,South America,29268,30765720,-0.092165876,expected
+2006,Venezuela,VEN,South America,37384,27224686,-0.146395859,expected
+2017,Venezuela,VEN,South America,8688,30565323,-1.071136851,low
+2001,Venezuela,VEN,South America,82620,24979922,1.023523659,high
+1992,Venezuela,VEN,South America,3356,20780948,-0.882701145,low
+2009,Venezuela,VEN,South America,60720,28438298,0.148996844,expected
+1990,Venezuela,VEN,South America,7637,19827010,0.277698354,expected
+2007,Venezuela,VEN,South America,74185,27649363,0.459688399,expected
+2018,Venezuela,VEN,South America,19226,29807592,-0.001532861,expected
+2015,Venezuela,VEN,South America,54152,30573972,0.334269163,expected
+1993,Venezuela,VEN,South America,9059,21254520,-0.075240395,expected
+2021,Venezuela,VEN,South America,5926,28237826,-0.314107906,expected
+2003,Venezuela,VEN,South America,26771,25892703,-0.242761331,expected
+2011,Venezuela,VEN,South America,30135,29185212,-0.578366183,low
+2004,Venezuela,VEN,South America,29777,26340838,-0.208537748,expected
+2012,Venezuela,VEN,South America,49502,29553826,-0.057192086,expected
+2002,Venezuela,VEN,South America,37507,25435671,0.161531282,expected
+2014,Venezuela,VEN,South America,87529,30254079,0.669153218,high
+2005,Venezuela,VEN,South America,39517,26785804,-0.006589804,expected
+1998,Venezuela,VEN,South America,31863,23601337,0.352589242,expected
+1997,Venezuela,VEN,South America,27354,23131685,0.328732202,expected
+2010,Venezuela,VEN,South America,113764,28813101,0.750675315,high
+1995,Venezuela,VEN,South America,26900,22193821,0.630851753,high
+2000,Venezuela,VEN,South America,21039,24526708,-0.261889402,expected
+2008,Venezuela,VEN,South America,44399,28053696,-0.117911175,expected
+2019,Venezuela,VEN,South America,16015,28938098,0.110723865,expected
+1999,Venezuela,VEN,South America,24028,24066593,-0.035708425,expected
+1991,Venezuela,VEN,South America,6559,20304896,-0.040865094,expected
+2022,Virgin Islands (Uk),VGB,Caribbean,27,38319,-0.027043443,expected
+2005,Virgin Islands (Uk),VGB,Caribbean,0,23665,-1.904926944,low
+2018,Virgin Islands (Uk),VGB,Caribbean,60,34657,-0.218635529,expected
+1997,Virgin Islands (Uk),VGB,Caribbean,0,18756,-0.278050539,expected
+2019,Virgin Islands (Uk),VGB,Caribbean,79,36395,0.259159873,expected
+1992,Virgin Islands (Uk),VGB,Caribbean,0,16593,-0.193922665,expected
+2021,Virgin Islands (Uk),VGB,Caribbean,14,37809,-0.935087465,low
+2020,Virgin Islands (Uk),VGB,Caribbean,44,37135,-0.063526148,expected
+2010,Virgin Islands (Uk),VGB,Caribbean,9,27675,-1.162060825,low
+2013,Virgin Islands (Uk),VGB,Caribbean,223,31703,0.951293274,high
+2009,Virgin Islands (Uk),VGB,Caribbean,65,27218,1.083491066,high
+2001,Virgin Islands (Uk),VGB,Caribbean,23,20796,3.562596711,high
+2004,Virgin Islands (Uk),VGB,Caribbean,0,22881,-1.400501385,low
+2015,Virgin Islands (Uk),VGB,Caribbean,103,34498,-0.065650664,expected
+2003,Virgin Islands (Uk),VGB,Caribbean,0,22134,-1.047151805,low
+2014,Virgin Islands (Uk),VGB,Caribbean,239,32962,0.855858893,high
+2000,Virgin Islands (Uk),VGB,Caribbean,3,20241,1.766895792,high
+1999,Virgin Islands (Uk),VGB,Caribbean,0,19730,-0.151766397,expected
+1998,Virgin Islands (Uk),VGB,Caribbean,1,19238,1.565063998,high
+2002,Virgin Islands (Uk),VGB,Caribbean,0,21430,-0.50534568,low
+1996,Virgin Islands (Uk),VGB,Caribbean,0,18287,0.596749298,high
+1995,Virgin Islands (Uk),VGB,Caribbean,0,17840,1.900587325,high
+1994,Virgin Islands (Uk),VGB,Caribbean,0,17406,-2.158101398,low
+1991,Virgin Islands (Uk),VGB,Caribbean,0,16187,0.156028569,expected
+2023,Virgin Islands (Uk),VGB,Caribbean,7,38985,-0.977093305,low
+1990,Virgin Islands (Uk),VGB,Caribbean,0,15704,0.739071681,high
+2006,Virgin Islands (Uk),VGB,Caribbean,0,24493,-2.173420532,low
+2017,Virgin Islands (Uk),VGB,Caribbean,67,32699,-0.245767696,expected
+2007,Virgin Islands (Uk),VGB,Caribbean,6,25366,-0.379172419,expected
+2011,Virgin Islands (Uk),VGB,Caribbean,939,28710,2.981616968,high
+2016,Virgin Islands (Uk),VGB,Caribbean,100,33878,-0.011527547,expected
+2012,Virgin Islands (Uk),VGB,Caribbean,12,30345,-1.666337037,low
+1993,Virgin Islands (Uk),VGB,Caribbean,0,16989,-1.497564175,low
+2008,Virgin Islands (Uk),VGB,Caribbean,15,26288,0.077857338,expected
+2021,Viet Nam,VNM,Asia,68268,98935098,-0.834629889,low
+2012,Viet Nam,VNM,Asia,82838,89510356,-0.076824009,expected
+1994,Viet Nam,VNM,Asia,44944,70854391,-0.362973663,expected
+2020,Viet Nam,VNM,Asia,137470,98079191,-0.060281342,expected
+2019,Viet Nam,VNM,Asia,320702,97173776,0.850715324,high
+2003,Viet Nam,VNM,Asia,49751,79563777,-0.143184558,expected
+2009,Viet Nam,VNM,Asia,105370,86460018,0.338786047,expected
+1999,Viet Nam,VNM,Asia,35868,76287452,-0.631910825,low
+2018,Viet Nam,VNM,Asia,131447,96237319,0.022454302,expected
+1995,Viet Nam,VNM,Asia,80447,72049940,0.163422117,expected
+2007,Viet Nam,VNM,Asia,104553,83633375,0.466242036,expected
+2008,Viet Nam,VNM,Asia,96451,85175788,0.31559378,expected
+1996,Viet Nam,VNM,Asia,89963,73156447,0.241296861,expected
+2006,Viet Nam,VNM,Asia,68792,82167897,0.112438504,expected
+2005,Viet Nam,VNM,Asia,57080,81088313,-0.027007067,expected
+1992,Viet Nam,VNM,Asia,48333,68260337,-0.180247656,expected
+2000,Viet Nam,VNM,Asia,25269,77154011,-0.931000512,low
+1991,Viet Nam,VNM,Asia,94630,66891775,0.53806187,high
+2013,Viet Nam,VNM,Asia,66322,90573104,-0.35786039,expected
+2011,Viet Nam,VNM,Asia,40998,88468314,-0.722077671,low
+2014,Viet Nam,VNM,Asia,31848,91679578,-1.150729438,low
+1998,Viet Nam,VNM,Asia,234920,75299660,1.205322658,high
+2010,Viet Nam,VNM,Asia,128831,87455152,0.47993137,expected
+2001,Viet Nam,VNM,Asia,42878,77969361,-0.353821468,expected
+2004,Viet Nam,VNM,Asia,78692,80338971,0.316851251,expected
+2023,Viet Nam,VNM,Asia,139048,100352192,-0.300694913,expected
+1990,Viet Nam,VNM,Asia,37569,65504552,-0.341430548,expected
+1997,Viet Nam,VNM,Asia,108000,74226889,0.412400479,expected
+2015,Viet Nam,VNM,Asia,97484,92823254,-0.092972908,expected
+1993,Viet Nam,VNM,Asia,53674,69586384,-0.12802629,expected
+2017,Viet Nam,VNM,Asia,172232,95176977,0.354320184,expected
+2022,Viet Nam,VNM,Asia,367729,99680655,0.761274758,high
+2016,Viet Nam,VNM,Asia,109649,94000117,-0.03701291,expected
+2002,Viet Nam,VNM,Asia,31760,78772224,-0.615426228,low
+2023,Vanuatu,VUT,Oceania,113,320409,-0.488565063,expected
+2001,Vanuatu,VUT,Oceania,15,191031,-0.51477932,low
+2009,Vanuatu,VUT,Oceania,105,232731,1.004631315,high
+2005,Vanuatu,VUT,Oceania,168,210760,1.695713143,high
+2013,Vanuatu,VUT,Oceania,NA,254482,0.267461135,expected
+1999,Vanuatu,VUT,Oceania,0,182048,-3.06632801,low
+2016,Vanuatu,VUT,Oceania,266,272087,1.484436235,high
+1997,Vanuatu,VUT,Oceania,131,174626,1.552916484,high
+2002,Vanuatu,VUT,Oceania,122,195863,1.535324944,high
+2017,Vanuatu,VUT,Oceania,153,278507,0.852547339,high
+2018,Vanuatu,VUT,Oceania,56,285259,-0.244165342,expected
+2000,Vanuatu,VUT,Oceania,20,186281,-0.19528338,expected
+1998,Vanuatu,VUT,Oceania,110,178313,1.435624416,high
+1995,Vanuatu,VUT,Oceania,19,167137,-0.540276892,low
+2010,Vanuatu,VUT,Oceania,33,238248,-0.208135068,expected
+2008,Vanuatu,VUT,Oceania,45,226896,0.226557001,expected
+2012,Vanuatu,VUT,Oceania,NA,248883,0.266025264,expected
+2007,Vanuatu,VUT,Oceania,96,221276,1.025296054,high
+2015,Vanuatu,VUT,Oceania,NA,266101,0.202459069,expected
+1992,Vanuatu,VUT,Oceania,52,155608,0.051628406,expected
+2004,Vanuatu,VUT,Oceania,2,205711,-2.395877936,low
+2014,Vanuatu,VUT,Oceania,NA,260240,0.427314824,expected
+1996,Vanuatu,VUT,Oceania,0,170911,-3.264939574,low
+1994,Vanuatu,VUT,Oceania,100,163314,0.974240446,high
+1991,Vanuatu,VUT,Oceania,113,151793,0.681363034,high
+1990,Vanuatu,VUT,Oceania,74,148063,0.111566745,expected
+2003,Vanuatu,VUT,Oceania,26,200746,-0.054750433,expected
+2020,Vanuatu,VUT,Oceania,20,298858,-1.579219848,low
+2006,Vanuatu,VUT,Oceania,82,215923,0.919108544,high
+2022,Vanuatu,VUT,Oceania,2392,313046,2.790407184,high
+2011,Vanuatu,VUT,Oceania,0,243474,-3.411954359,low
+2021,Vanuatu,VUT,Oceania,51,305868,-0.836897565,low
+1993,Vanuatu,VUT,Oceania,138,159463,1.160439575,high
+2019,Vanuatu,VUT,Oceania,17,291985,-1.533939548,low
+2023,Samoa,WSM,Oceania,432,216663,0.322873813,expected
+2021,Samoa,WSM,Oceania,15,213779,-2.512713483,low
+2020,Samoa,WSM,Oceania,1,211944,-4.248935441,low
+2004,Samoa,WSM,Oceania,2,186249,-2.152901107,low
+2015,Samoa,WSM,Oceania,NA,201782,0.202459069,expected
+2001,Samoa,WSM,Oceania,2,183166,-2.239246001,low
+1993,Samoa,WSM,Oceania,NA,171774,-0.71721792,low
+2009,Samoa,WSM,Oceania,NA,191513,-0.440960407,expected
+1996,Samoa,WSM,Oceania,163,176071,1.176548643,high
+1992,Samoa,WSM,Oceania,2,170331,-1.99800411,low
+1990,Samoa,WSM,Oceania,22,169042,0.540054287,high
+2005,Samoa,WSM,Oceania,29,186978,0.232899552,expected
+1995,Samoa,WSM,Oceania,1013,174571,3.101468998,high
+2007,Samoa,WSM,Oceania,677,188753,3.133034573,high
+2002,Samoa,WSM,Oceania,0,184471,-2.692224496,low
+2013,Samoa,WSM,Oceania,NA,198268,0.267461135,expected
+1994,Samoa,WSM,Oceania,278,173159,1.994715392,high
+1997,Samoa,WSM,Oceania,49,177547,-0.008079671,expected
+2018,Samoa,WSM,Oceania,206,207582,0.472102875,expected
+2003,Samoa,WSM,Oceania,1,185430,-2.380919126,low
+1998,Samoa,WSM,Oceania,NA,178905,0.370627884,expected
+1999,Samoa,WSM,Oceania,200,180275,1.591842924,high
+2019,Samoa,WSM,Oceania,64,209780,-0.787121544,low
+2022,Samoa,WSM,Oceania,14343,215261,4.068660371,high
+2010,Samoa,WSM,Oceania,NA,193023,-1.251279053,low
+2017,Samoa,WSM,Oceania,127,205415,0.061006437,expected
+2006,Samoa,WSM,Oceania,23,187709,-0.091382695,expected
+2008,Samoa,WSM,Oceania,NA,190107,1.222696137,high
+2012,Samoa,WSM,Oceania,NA,196498,0.266025264,expected
+2014,Samoa,WSM,Oceania,NA,200037,0.427314824,expected
+2000,Samoa,WSM,Oceania,163,181685,1.57120082,high
+2011,Samoa,WSM,Oceania,NA,194713,-0.749960039,low
+1991,Samoa,WSM,Oceania,3,169368,-1.438646316,low
+2016,Samoa,WSM,Oceania,2724,203499,3.185492779,high
