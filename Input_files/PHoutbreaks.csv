@@ -1,0 +1,25 @@
+﻿Region,Country ,adjusted_year,Year,Outbreak,Link
+Central America,Nicaragua,2009,2009,Yes,https://pubmed.ncbi.nlm.nih.gov/22087347/
+,Nicaragua,2014,2014,Yes,promed
+,Honduras,2010,2010,Yes,https://www3.paho.org/hq/dmdocuments/2010/dengue_regional_data_2002.pdf
+,Panama,2011,2011,Yes,https://www.sciencedirect.com/science/article/pii/S0001706X17308902?casa_token=_nOYr1g4czoAAAAA:j6Chr8JYCP7mHNsohgO4cvKx3k29SckJX8Mle0as3JsKp6B-JR9QqnUrjDUQrEd5egQxyEZ7kpVq#sec0090
+,El Salvador,2013,2013,Yes,promed
+South America,Venezuela,2010,2010,Yes,https://www.paho.org/sites/default/files/epi_alerts_2010_04_junio_dengue.pdf
+,Paraguay,2013,2014,Yes,promed
+,Colombia,2011,2011,Yes,promed
+,Colombia,2002,2002,Yes,https://pubmed.ncbi.nlm.nih.gov/33022908/
+,Bolivia,2011,2012,Yes,promed
+Asia,Bangladesh,2023,2023,Yes,https://pmc.ncbi.nlm.nih.gov/articles/PMC12106341/
+,Indonesia,2016,2017,Yes,promed
+,Thailand,2010,2010,Yes,promed
+,Cambodia,2013,2013,Yes,promed
+Carribean,Dominican Republic,2015,2015,Yes,https://pmc.ncbi.nlm.nih.gov/articles/PMC6237425/#abstract1
+,Dominican Republic,2013,2013,Yes,promed
+,Jamaica,2023,2023,Yes,https://jm.usembassy.gov/health-alert-dengue-fever-outbreak-declared-in-jamaica-5-october-2023/
+,Puerto Rico,2007,2007,Yes,https://d1wqtxts1xzle7.cloudfront.net/81984091/8e5aac71066a23134d84889d7fa4f81efdc8-libre.pdf?1646925030=&response-content-disposition=inline%3B+filename%3DDescription_of_a_large_island_wide_outbr.pdf&Expires=1762566221&Signature=d5RzgNnCy3Cb1LtUOV~jxTUrtjxhM3~0NO~gmG0Spdu4F4eThX9K4MGXhhWigqSV7rsQCepnLg1ZCKcLh0AZaHvWYNm4M2GUQYeAmEpHf0G-4Uz1YFS6novx-d9z2l6GR0yW8HN7510J6jysxh-JmPF-kjkzVt3FJlNIf5pxbqApi1bImJV0vpfry1PcIlKpaXnEc8nlGjoXlx2-WpO3~EIInSj5-5CVJn9SEM4rxG4H13ApBBtXg8DKTIFu3ytJt-fDisn5vK-Hcq7Tz4qmaGjgilaqY5IbXLe56PDgqQ-xlFPKpL8aO6V-7X9JNr9fXxGSS0vU~WS-GP6XlOUWnw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+,Bahamas,2011,2011,Yes,promed
+Oceania,Solomon Islands,2017,2017,Yes,https://pubmed.ncbi.nlm.nih.gov/29879179/
+,Fiji,2013,2014,Yes,https://pubmed.ncbi.nlm.nih.gov/31720052/
+,Fiji,2017,2018,Yes,promed
+,Vanuatu,2016,2017,Yes,"https://reliefweb.int/report/vanuatu/vanuatu-dengue-fever-outbreak-dref-operation-n-mdrvu003-final-report#:~:text=On%2030%20December%202016%2C%20the,641%20cases%20were%20confirmed%20positive."
+,New Caledonia,2016,2017,Yes,promed
