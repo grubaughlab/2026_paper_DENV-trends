@@ -5,9 +5,13 @@ This paper is now avaliabe as a preprint at [medrxiv](https://www.medrxiv.org/co
 Abigail J. Porzucek1,2,\*, Rafael Lopes1,2,\*, Yi Ting Chew1,2, Ke Li1,2, Oliver J. Brady3, Joshua L. Warren2,4, Colin J. Carlson1,2, Daniel M. Weinberger1,2,\*\*, Nathan D. Grubaugh1,2,5,\*\* 
 
 1 Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, USA
+
 2 Public Health Modeling Unit, Yale School of Public Health, Yale University; New Haven, Connecticut, USA
+
 3 Department of Infectious Disease Epidemiology and Dynamics, Faculty of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, London, UK
+
 4 Department of Biostatistics, Yale School of Public Health, Yale University; New Haven, Connecticut, USA
+
 5 Department of Ecology and Evolutionary Biology, Yale University; New Haven, Connecticut, USA
 
 \* Co-first authors
